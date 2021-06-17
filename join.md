@@ -5,7 +5,10 @@ permalink: /join/
 ---
 
 <table style="width:1200" align="center"> <tr><td><div align="justify" class="style-paragraph">
-I am an Associate Professor and a Pankaj Gupta Young Faculty Fellow in the Department of Computer Science and Engineering at IIT Delhi. My current research interests includes following:
+
+**Dr. Chetan's Note for prospective students**
+
+Dr. Chetan Arora is an Associate Professor and a Pankaj Gupta Young Faculty Fellow in the Department of Computer Science and Engineering at IIT Delhi. My current research interests includes following:
 <ol>
 	<li><b>Trusworthy AI:</b> I am interested in making modern computer vision systems using machine learning techniques more trustworthy. Specific topics of interest include Adversarial attack and defense techniques, Reliability, Causality and Fairness. </li>
 	<li><b>Cancer Detection:</b> Computer aided detection models for detecting cancer, and trained on western population are not successful for Indian population. We would like to develop models specifically for Indian population. Our current focus is on Breast Cancer detection from Mammograms, and Gall Bladder Cancer from Ultrsound images. </li>
