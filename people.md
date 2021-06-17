@@ -34,30 +34,12 @@ permalink: /people/
 <li>
 {% include person.html 
     src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Gabriele Prato" 
-    url="https://pratogab.github.io/"
-    cosupervisor="Alain Tapp"
-    research="Out-of-Distribution Generalization"
+    name="Anupam Sobti" 
+    url="https://www.cse.iitd.ac.in/~anupam//"
+    research="Computer Vision, Machine learning, Embedded systems"
 %}
 </li>
 
-<li>
-{% include person.html
-    src="/assets/images/bios/abdelrahman-zayed.jpeg"
-    name="Abdelrahman Zayed"
-    url="https://abdelrahmanzayed.github.io/"
-    research="Applying constraints to neural networks, Recurrent neural networks"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/andreas-madsen.jpeg"
-    name="Andreas Madsen"
-    url="https://andreasmadsen.github.io/"
-    cosupervisor="Siva Reddy"
-    research="Interpretability in NLP"
-%}
-</li>
 </ul>
 
 
