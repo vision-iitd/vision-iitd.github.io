@@ -6,7 +6,7 @@ permalink: /join/
 
 <table style="width:1200" align="center"> <tr><td><div align="justify" class="style-paragraph">
 
-**Dr. Chetan's Note for prospective students**
+** Dr. Chetan's Note for prospective students **
 
 Dr. Chetan Arora is an Associate Professor and a Pankaj Gupta Young Faculty Fellow in the Department of Computer Science and Engineering at IIT Delhi. My current research interests includes following:
 <ol>
@@ -17,7 +17,7 @@ Dr. Chetan Arora is an Associate Professor and a Pankaj Gupta Young Faculty Fell
 	<li><b>Social Impact:</b> I am on constant lookout to use my expertise for applications with social impact. My current interest includes developing camera based wearable device as mobility assistant for visually impaired. </li>
 </ol>
 
-Plaese look at <A HREF="https://signalprocessingsociety.org/newsletter/2020/08/interview-chetan-arora-associate-professor-iit-delhi-india" target="_blank">my recent interview with IEEE Signal Processing Society</A> to undertand my current research program and future research directions in more detail.
+Please look at <A HREF="https://signalprocessingsociety.org/newsletter/2020/08/interview-chetan-arora-associate-professor-iit-delhi-india" target="_blank">my recent interview with IEEE Signal Processing Society</A> to undertand my current research program and future research directions in more detail.
 
 </div></td></tr></table>
 
