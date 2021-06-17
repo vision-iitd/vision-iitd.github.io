@@ -6,7 +6,7 @@ permalink: /join/
 
 <table style="width:1200" align="center"> <tr><td><div align="justify" class="style-paragraph">
 
-** Dr. Chetan's Note for prospective students **
+<h3> Dr. Chetan's Note for prospective students </h3>
 
 Dr. Chetan Arora is an Associate Professor and a Pankaj Gupta Young Faculty Fellow in the Department of Computer Science and Engineering at IIT Delhi. My current research interests includes following:
 <ol>
