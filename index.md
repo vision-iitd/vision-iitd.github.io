@@ -20,4 +20,4 @@ Visual Computing group (IIT Delhi) is a Computer vision research group in the De
 <br>
 # News:
 
-* (October 2020) Visual computing group, IIT Delhi launches official group website.
+* (June 2021) Visual computing group, IIT Delhi launches official group website.
