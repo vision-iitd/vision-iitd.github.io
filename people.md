@@ -34,9 +34,9 @@ permalink: /people/
 <li>
 {% include person.html 
     src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Anupam Sobti" 
-    url="https://www.cse.iitd.ac.in/~anupam//"
-    research="Computer Vision, Machine learning, Embedded systems"
+    name="Example" 
+    url="https://jnikhilreddy.github.io/join/"
+    research="Computer Vision, Machine learning"
 %}
 </li>
 
@@ -48,35 +48,12 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/mohamed-abdelsalam.png"
-    name="Mohamed Ashraf Abdelsalam"
-    url="https://mohamedabdelsalam9.github.io/" 
+    name="Example"
+    url="https://jnikhilreddy.github.io/join/" 
     research="Incremental learning"
 %}
 </li>
-<li>
-{% include person.html
-    src="/assets/images/bios/charan-reddy.png"
-    name="Charan Reddy"
-    url="https://charan223.github.io"
-    research="Modular Continual Learning, Multi Domain Meta Learning, Fairness in Deep Learning, Optimization"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/darshan-patil.png"
-    name="Darshan Patil"
-    url="https://www.darshanpatil.com"
-    research="Lifelong learning, Compositionality, Learning from Instruction"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/mojtaba-faramarzi.png"
-    name="Mojtaba Faramarzi"
-    url="https://bemova.github.io/"
-    research="Continual learning focused on replay and regularization methods, Data-dependent regularization for deep learning"
-%}
-</li>
+
 </ul>
 
 # Interns/RAs
@@ -84,33 +61,9 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/hadi-nekoei.jpg"
-    name="Hadi Nekoei"
-    url="https://hnekoeiq.github.io/" 
+    name="Example"
+    url="https://jnikhilreddy.github.io/join/" 
     research="Model-based RL, Multi-agent RL, Lifelong Learning"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/rodrigo-chavez-zavaleta.jpg"
-    name="Rodrigo Chavez Zavaleta"
-    url="https://chavezrodz.github.io/" 
-    research="Dynamical systems, Recurrent Neural Networks, Natural Language Processing"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/paul-aymeric-mcrae.jpg"
-    name="Paul-Aymeric McRae"
-    url="https://aymeric-mcrae.github.io/" 
-    research="Optimization, RNNs"
-%}
-</li>
-<li>
-{% include person.html
-    src="/assets/images/bios/sam-finstone.jpeg"
-    name="Sam Finstone"
-    url="" 
-    research="Dialogue generation, Structured representation for language generation"
 %}
 </li>
 </ul>
@@ -119,4 +72,4 @@ permalink: /people/
 # Alumni
 
 **Interns**:  
-0. Evan Racah (Jan 2020 - Jun 2020)
+0. Example (Jan 2020 - Jun 2020)
