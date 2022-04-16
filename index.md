@@ -23,6 +23,8 @@ redirect_from:
 Vision group (IIT Delhi) is a Computer vision research group in the Department of Computer and Engineering at [IIT Delhi](https://www.cse.iitd.ac.in/). Currently, the lab focuses on several areas in machine learning including Trusworthy AI, Cancer Detection, Mobility, and Egocentric Vision. Vision group (IIT Delhi) is a Computer vision research group in the Department of Computer and Engineering at [IIT Delhi](https://www.cse.iitd.ac.in/). Currently, the lab focuses on several areas in machine learning including Trusworthy AI, Cancer Detection, Mobility, and Egocentric Vision. 
 
 <br>
+<br>
+<br>
 
 # News
 
