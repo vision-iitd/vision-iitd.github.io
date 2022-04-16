@@ -5,6 +5,3 @@ permalink: /publications/
 ---
 ---
 
-{% include publications.html
-    publications=site.data.publications
-%}
