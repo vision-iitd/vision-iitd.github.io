@@ -4,20 +4,28 @@
 
 layout: page
 permalink: /
-title: ""
+title: "Home"
 width: 1200
 redirect_from:
     - /home
 ---
 
-<img src="/assets/images/website_collage.jpg" width="60%" height="60%" style="display: block; margin-left: auto; margin-right: auto;" >
+<img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" border="0" width="7%" height="7%" style="float: right;">
 
-# About the Lab:
+<img src="https://home.iitd.ac.in/images/preloaders/logo.png" width="6%" height="6%" style="float: right;">
 
 
-Visual Computing group (IIT Delhi) is a Computer vision research group in the Department of Computer and Engineering at [IIT Delhi](https://www.cse.iitd.ac.in/). Currently, the lab focuses on several areas in machine learning including Trusworthy AI, Cancer Detection, Mobility, and Egocentric Vision. 
+<img src="assets/images/montreal.jpg" width="60%" height="1500%" style="float: left;" >
+<br>
+
+
+<h3> About the Lab</h3>
+Vision group (IIT Delhi) is a Computer vision research group in the Department of Computer and Engineering at [IIT Delhi](https://www.cse.iitd.ac.in/). Currently, the lab focuses on several areas in machine learning including Trusworthy AI, Cancer Detection, Mobility, and Egocentric Vision. 
 
 <br>
-# News:
 
+# News
+
+* (June 2021) Visual computing group, IIT Delhi launches official group website.
+* (June 2021) Visual computing group, IIT Delhi launches official group website.
 * (June 2021) Visual computing group, IIT Delhi launches official group website.
