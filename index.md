@@ -5,17 +5,17 @@
 layout: page
 permalink: /
 title: "Home"
-width: 1400
+width: 1200
 redirect_from:
     - /home
 ---
 
-<img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" border="0" width="5%" height="5%" style="float: left;">
+<img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" border="0" width="7%" height="7%" style="float: right;">
 
-<img src="https://home.iitd.ac.in/images/preloaders/logo.png" width="5%" height="5%" style="float: right;">
+<img src="https://home.iitd.ac.in/images/preloaders/logo.png" width="6%" height="6%" style="float: right;">
 
 
-<img src="assets/images/montreal.jpg" width="60%" height="1500%" style="float: right;" >
+<img src="assets/images/montreal.jpg" width="60%" height="1500%" style="float: left;" >
 <br>
 
 
@@ -24,7 +24,7 @@ Vision group (IIT Delhi) is a Computer vision research group in the Department o
 
 <br>
 
-# News:
+# News
 
 * (June 2021) Visual computing group, IIT Delhi launches official group website.
 * (June 2021) Visual computing group, IIT Delhi launches official group website.
