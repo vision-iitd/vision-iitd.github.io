@@ -35,7 +35,7 @@ plugins:
 header_pages:
   - home.md
   - people.md
-  - publications.md
+  - publications.html
   - join.md
 
 whitelist:
