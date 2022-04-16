@@ -1,0 +1,343 @@
+# This file contains all active members displayed on https://chandar-lab.github.io/people/
+# Once a member becomes inactive, their details should be moved from people.yaml to alumni.yaml.
+# Note that the format of alumni.yaml is slightly different from people.yaml.
+
+# The picture, website, cosupervisor, and topics fields are optional.
+# The topics field must contain both english (en) and french (fr) translations.
+# The title field must be either: pi, postdoc, phd, or intern
+# Note that `intern` will be placed under "Interns/RAs" so this includes Research Assistants too.
+
+# The order in this file is the order of people in the collage, from left to right, row by row,
+# where there are 5 pictures on each row.
+# Note that to add blank spaces in the collage the collage_column_start property can be used.
+# collage_column_start indicates at which column the person should appear, sucessing people
+# will the follow.
+# To understand collage_column_start, lookup the CSS property `grid-column-start`.
+# Examples, where a number indicates that "collage_column_start" is set
+#  and - indicates it is not set:
+# Example 1:
+# [ 2, -, -, -, 1, -, -, -, -, -] =>
+#    x x x
+#  x x x x x
+# Example 2:
+# [ -, -, -, -, -, -, -, 4, -] =>
+#  x x x x x
+#  x x   x x
+# Example 3:
+# [ 1, 2, 3, 3, 4, 5]
+#   x x x
+#       x x x
+# Example 4:
+# [ -, -, -, 3, -, -]
+#   x x x
+#       x x x
+
+
+- name: Sarath Chandar
+  title: pi
+  picture: sarath-chandar
+  website: http://sarathchandar.in/
+  period:
+    start: 2020-01-01
+
+- name: Gonçalo Mordido
+  title: postdoc
+  picture: goncalo-mordido
+  website: https://goncalomordido.github.io
+  cosupervisor: François Leduc-Primeau
+  period:
+    start: 2022-03-01
+  topics:
+    - en: Algorithm-hardware co-design
+      fr: Co-conception algorithme-matériel
+    - en: Energy-efficient neural networks
+      fr: Réseaux de neurones économes en énergie
+
+- name: Janarthanan Rajendran
+  title: postdoc
+  picture: janarthanan-rajendran
+  website: https://sites.google.com/umich.edu/janarthanan-rajendran/
+  cosupervisor: Doina Precup
+  period:
+    start: 2021-06-21
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Meta-Learning
+      fr: Méta-apprentissage
+    - en: Dialog Systems
+      fr: Systèmes de dialogue
+
+- name: Maziar Sargordi
+  title: phd
+  picture: maziar-sargordi
+  website: https://msargordi.github.io/
+  period:
+    start: 2022-01-01
+  topics:
+    - en: Machine Learning
+      fr: Apprentissage automatique
+    - en: Lifelong Learning
+      fr: Apprentissage Continu
+
+- name: Naga Karthik
+  title: phd
+  picture: naga-karthik
+  website: https://naga-karthik.github.io
+  cosupervisor: Julien Cohen-Adad
+  period:
+    start: 2021-10-01
+  topics:
+    - en: Continual Learning in Medical Imaging
+      fr: Apprentissage continu pour l'imagerie médicale
+    - en: Bayesian Uncertainty Estimation
+      fr: Estimation de l'incertitude bayésienne
+    - en: Biomedical Image Processing
+      fr: Traitement d'images biomédicales
+
+- name: Xutong Zhao
+  title: phd
+  picture: xutong-zhao
+  website: https://tongtongx.github.io/
+  period:
+    start: 2021-09-01
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
+- name: Gabriele Prato
+  title: phd
+  picture: gabriele-prato
+  website: https://pratogab.github.io/
+  cosupervisor: Alain Tapp
+  period:
+    start: 2019-05-01
+  topics:
+    - en: Out-of-Distribution Generalization
+      fr: Généralisation hors de distribution
+
+- name: Simon Guiroy
+  title: phd
+  picture: simon-guiroy
+  website: https://simonguiroy.github.io/
+  cosupervisor: Chris Pal
+  period:
+    start: 2019-10-01
+  topics:
+    - en: Meta-Learning
+      fr: Méta-apprentissage
+    - en: Transfer Learning
+      fr: Transfère d'apprentissage
+
+- name: Louis Clouatre
+  title: phd
+  picture: louis-clouatre
+  website: https://luee-c.github.io/
+  cosupervisor: Amal Zouaq
+  period:
+    start: 2019-09-01
+  topics:
+    - en: NLP
+      fr: Traitement du langage naturel
+    - en: sequential information
+      fr: information séquentielle
+
+- name: Doriane Olewicki
+  title: phd
+  picture: doriane-olewicki
+  website: https://olewicki.github.io/
+  cosupervisor: Bram Adams
+  period:
+    start: 2020-08-30
+  topics:
+    - en: Continual Learning for Software Engineering
+      fr: Apprentissage continu appliqué à l'ingénierie logicielle
+    - en: Continuous Integration
+      fr: Intégration continue
+
+- name: Abdelrahman Zayed
+  title: phd
+  picture: abdelrahman-zayed
+  website: https://abdelrahmanzayed.github.io/
+  period:
+    start: 2020-09-01
+  topics:
+    - en: Applying constraints to neural networks
+      fr: Application de contraintes sur réseaux de neurones
+    - en: Recurrent neural networks
+      fr: Réseau de neurones récurrent
+
+- name: Andreas Madsen
+  title: phd
+  picture: andreas-madsen
+  website: https://andreasmadsen.github.io/
+  cosupervisor: Siva Reddy
+  period:
+    start: 2020-08-30
+  topics:
+    - en: Interpretability in NLP
+      fr: Interprétabilité de traitement du langage naturel
+
+- name: Hadi Nekoei
+  title: phd
+  picture: hadi-nekoei
+  website: https://hnekoeiq.github.io/
+  period:
+    start: 2021-12-31
+  topics:
+    - en: Multi-agent RL
+      fr: Apprentissage par renforcement multi-agent
+    - en: Model-based RL
+      fr: Apprentissage par renforcement basé sur les models
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Generalization in RL
+      fr: généralisation en apprentissage par renforcement
+
+- name: Mojtaba Faramarzi
+  title: phd
+  picture: mojtaba-faramarzi
+  website: https://bemova.github.io/
+  period:
+    start: 2021-01-01
+  topics:
+    - en: Continual learning focused on replay and regularization methods
+      fr: Apprentissage permanent ciblé sur les méthodes de replay et de régularisation
+    - en: Data-dependent regularization for deep learning
+      fr: Régularization dépendante des données pour l'apprentissage profond
+
+- name: Pranshu Malviya
+  title: phd
+  picture: pranshu-malviya
+  website: http://pranshu28.github.io/
+  period:
+    start: 2022-01-01
+  topics:
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+    - en: Causal Inference
+      fr: Inférence de causalité
+    - en: Optimization
+      fr: Optimisation
+
+- name: Kshitij Gupta
+  title: master
+  picture: kshitij-gupta
+  website: https://kshitijkg.github.io
+  cosupervisor: Irina Rish
+  period:
+    start:  2021-09-01
+  topics:
+    - en: Model-based RL
+      fr: Apprentissage par renforcement basé sur les models
+    - en: Planning
+      fr: La planification
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
+- name: Jarrid Rector-Brooks
+  title: master
+  picture: jarrid-rector-brooks
+  website: https://jarridrb.github.io
+  cosupervisor: Yoshua Bengio
+  period:
+    start: 2021-09-01
+  topics:
+    - en: ML for drug discovery
+      fr: apprentissage machine pour la recherche pharmaceutique
+    - en: ML for social good
+      fr: apprentissage machine pour le bien commun
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Optimization
+      fr: Optimisation
+
+- name: Charan Reddy
+  title: master
+  picture: charan-reddy
+  website: https://charan223.github.io
+  period:
+    start: 2020-07-01
+  topics:
+    - en: Modular Continual Learning
+      fr: Apprentissage continu modulaire
+    - en: Multi Domain Meta Learning
+      fr: Méta-apprentissage dans multiple domaines
+    - en: Fairness in Deep Learning
+      fr: Équité en apprentissage profond
+    - en: Optimization
+      fr: Optimisation
+
+- name: Darshan Patil
+  title: phd
+  picture: darshan-patil
+  website: https://www.darshanpatil.com
+  period:
+    start: 2021-09-01
+  topics:
+    - en: Lifelong learning
+      fr: Apprentissage permanent
+    - en: Compositionality
+      fr: Compositionnalité
+    - en: Learning from Instruction
+      fr: Apprentissage par instruction
+
+- name: Ali Rahimi-Kalahroudi
+  title: master
+  picture: ali-rahimi-kalahroudi
+  website: http://alirahkay.github.io/
+  period:
+    start: 2021-01-01
+  topics:
+    - en: Deep Reinforcement Learning
+      fr: Apprentissage profond par renforcement
+    - en: Lifelong Learning
+      fr: Apprentissage permanent
+
+- name: Daphné Lafleur
+  title: master
+  picture: daphne-lafleur
+  website: https://www.linkedin.com/in/daphné-lafleur-173a72170
+  cosupervisor: Gilles Pesant
+  period:
+    start: 2021-06-28
+  topics:
+    - en: Algorithmic composition
+      fr: Composition algorithmique
+    - en: Constraint programming
+      fr: Programmation par contraintes
+    - en: Machine learning
+      fr: Apprentissage automatique
+
+
+- name: Shabnam Haghzare
+  title: intern
+  picture: shabnam_haghzare
+  website: https://www.shabnamhaghzare.com/
+  period:
+    start: 2021-05-11
+  topics:
+    - en: Human-Automation Interaction
+      fr: Interaction entre humain et automatisation
+    - en: Automated Driving
+      fr: Conduite automatique
+    - en: Older Adults
+      fr: Personnes agées
+    - en: Intelligent Vehicles
+      fr: Véhicules automatique
+    - en: Artificial Intelligence
+      fr: Intelligence Artificielle
+
+- name: Yi Wan
+  title: intern
+  picture: yi-wan
+  website: https://sites.google.com/ualberta.ca/yiwan/
+  period:
+    start: 2021-05-01
+  topics:
+    - en: Reinforcement Learning
+      fr: Apprentissage profond par renforcement

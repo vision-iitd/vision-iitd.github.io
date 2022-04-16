@@ -1,32 +1,25 @@
-<!-- <img src="{{include.src}}" width="125" height="125" /> <br> -->
-<!-- <a href="url"></a>{{include.name}} -->
-<div class='row'>
-    {% if include.src != "" and include.src != nil %}
-    <img src="{{include.src}}">
-    {% else %}
-    <img src="/assets/images/bios/white.png">
+{% if include.picture != "" and include.picture != nil %}
+<picture>
+    <source srcset="/assets/images/bios_compressed/{{include.picture}}.webp" type="image/webp">
+    <source srcset="/assets/images/bios_compressed/{{include.picture}}.jpg" type="image/jpeg">
+    <img src="/assets/images/bios_compressed/{{include.picture}}.jpg" loading="lazy" height="100" width="100" alt="Picture of {{include.name}}">
+</picture>
+{% endif %}
+
+{% if include.website != "" and include.website != nil %}
+    <h6><a href="{{include.website}}">{{include.name}}</a></h6>
+{% else %}
+    <h6>{{include.name}}</h6>
+{% endif %}
+
+<p>
+    {% if include.affiliation != "" and include.affiliation != nil %}
+        {{include.affiliation}}<br>
     {% endif %}
-    <div class='info'>
-        {% if include.url != "" and include.url != nil %}
-        <a href="{{include.url}}">
-            {{include.name}}
-        </a>
-        {% else %}
-        {{include.name}}
-        {% endif %}
-        <br>
-        <div class='text'>
-            {% if include.affiliation != "" and include.affiliation != nil %}
-            {{include.affiliation}}
-            <br>
-            {% endif %}
-            {% if include.cosupervisor != "" and include.cosupervisor != nil %}
-            Co-supervisor: {{include.cosupervisor}}
-            <br>
-            {% endif %}
-            {% if include.research != "" and include.research != nil %}
-            Research Areas: {{include.research}}
-            {% endif %}
-        </div>
-    </div>
-</div>
+    {% if include.cosupervisor != "" and include.cosupervisor != nil %}
+        {% t translations.person.cosupervisor %}: {{include.cosupervisor}}<br>
+    {% endif %}
+    {% if include.topics != "" and include.topics != nil %}
+        {% t translations.person.research %}: {{ include.topics | map: site.lang | join: ', ' }}
+    {% endif %}
+</p>

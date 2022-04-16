@@ -1,0 +1,10 @@
+<p>
+<strong>{{include.title}}</strong><br>
+{% include linked_people.html names=include.authors %}<br>
+{{include.venue}}, {{include.date | localize: '%Y' }}.<br>
+{% if include.links != "" and include.links != nil %}
+  {% for link in include.links %}
+    [<a href="{{link[1]}}">{{link[0]}}</a>]{% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+{% endif %}
+</p>

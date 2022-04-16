@@ -1,7 +1,7 @@
 
 {% assign preprints = include.publications | where: "preprint", true | sort: 'date' | reverse %}
 {% if preprints.size > 0 %}
-<h2>{% headings.preprints %}</h2>
+<h2>{% t headings.preprints %}</h2>
 
 <ul>
 {% for paper in preprints %}
@@ -20,7 +20,7 @@
 
 {% assign publications = include.publications | where: "preprint", nil | sort: 'date' | reverse %}
 {% if publications.size > 0 %}
-<h2>{% headings.conference_and_journal_papers %}</h2>
+<h2>{% t headings.conference_and_journal_papers %}</h2>
 
 {% assign year_lastpaper = nil %}
 {% for paper in publications %}

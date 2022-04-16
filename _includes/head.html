@@ -2,10 +2,21 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
+    <title>{% include title.html %} | {% t site.title %}</title>
+    <link rel="canonical" href="{{page.url}}">
+
+    <meta property="og:title" content="{% include title.html %}">
+    <meta property="og:url" content="{{page.url}}">
+    <meta property="og:site_name" content="{%t site.title %}">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="{% include title.html %}">
+
+    <script type="application/ld+json">
+    {"@type":"WebSite","headline":"Chandar Research Lab","url":"/","name":"Chandar Research Lab","@context":"https://schema.org"}</script>
+    <!-- End Jekyll SEO tag -->
+
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <!-- <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}"> -->
-    {%- feed_meta -%}
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
     {%- endif -%}
