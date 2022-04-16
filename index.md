@@ -12,9 +12,6 @@ redirect_from:
 
 <img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" width="8%" height="8%" style="float: right;">
 
-<img src="https://home.iitd.ac.in/images/preloaders/logo.png" width="6%" height="6%" style="float: right;">
-
-
 <img src="https://media.istockphoto.com/photos/zebra-running-and-jumping-picture-id483230252?s=612x612" width="40%" height="80%" style="border:5px solid white; float: left;" >
 <br>
 
