@@ -4,18 +4,18 @@
 
 layout: page
 permalink: /
-title: "Home"
+title: ""
 width: 1200
 redirect_from:
     - /home
 ---
 
-<img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" border="0" width="7%" height="7%" style="float: right;">
+<img src="https://www.cse.iitd.ac.in/templates/ifreedom-fjt/images/logo.png" border="0" width="8%" height="8%" style="float: right;">
 
 <img src="https://home.iitd.ac.in/images/preloaders/logo.png" width="6%" height="6%" style="float: right;">
 
 
-<img src="assets/images/montreal.jpg" width="60%" height="1500%" style="float: left;" >
+<img src="https://media.istockphoto.com/photos/zebra-running-and-jumping-picture-id483230252?s=612x612" width="60%" height="1500%" style="float: left;" >
 <br>
 
 
