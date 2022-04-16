@@ -6,7 +6,7 @@ permalink: /join/
 
 <table style="width:1200" align="center"> <tr><td><div align="justify" class="style-paragraph">
 
-<h3> Dr. Chetan's Note for prospective students </h3>
+<h3> Note for prospective students </h3>
 
 Dr. Chetan Arora is an Associate Professor and a Pankaj Gupta Young Faculty Fellow in the Department of Computer Science and Engineering at IIT Delhi. My current research interests includes following:
 <ol>
@@ -21,30 +21,6 @@ Please look at <A HREF="https://signalprocessingsociety.org/newsletter/2020/08/i
 
 </div></td></tr></table>
 
-<br/>
 
-<table style="width:1200" align="center">
-<tr><td>
-<div align="justify" class="style-paper-title"> PhD Positions </div>
-</td></tr>
-<tr><td>
-<div align="justify" class="style-paragraph"> 
-I am looking for technically strong, and committed students interested to do a PhD in computer vision and machine learning, in any of the topics listed above. Interested students may look at my publications page to get a glimpse of my past work.   
-</div>
-</td></tr>
-</table>
-
-<br/>
-
-<table style="width:1200" align="center">
-<tr><td>
-<div align="justify" class="style-paper-title"> For Undergraduate Students </div>
-</td></tr>
-<tr><td>
-<div align="justify" class="style-paragraph"> 
-I do not take students for any short term projects, no winter or summer internships. Please contact me only if you have exceptional academic credentials and are interested in a year long project. IIT Delhi students with a 8+ CGPA may contact me for a BTP or an MTP. 
-</div>
-</td></tr>
-</table>
 
 <br/>
