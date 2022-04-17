@@ -33,9 +33,9 @@ plugins:
   - jekyll-redirect-from
 
 header_pages:
-  - index.html
-  - people.html
-  - publications.html
+  - index.md
+  - people.md
+  - publications.md
   - join.md
 
 whitelist:
