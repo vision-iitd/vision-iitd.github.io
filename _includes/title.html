@@ -1,9 +1,0 @@
-{%- if page.title_generation and page.title_generation == 'profile' -%}
-  {%- if site.lang == 'en' -%}
-    Publications by {{ page._name }}
-  {%- elsif site.lang == 'fr' -%}
-    Publications d'{{ page._name }}
-  {%- endif -%}
-{%- else -%}
-{%- t page.title -%}
-{%- endif -%}

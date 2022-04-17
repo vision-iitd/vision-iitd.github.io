@@ -1,8 +1,0 @@
-{% if include.website != "" and include.website != nil %}
-<a href="{{include.website}}">
-    {{include.name}}
-</a>
-{% else %}
-    {{include.name}}
-{% endif %}
-({{include.period.start | localize: "%b %Y"}} - {{include.period.end | localize: "%b %Y"}}) -- {{include.next[site.lang]}}
