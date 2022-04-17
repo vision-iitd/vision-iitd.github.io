@@ -1,0 +1,29 @@
+---
+layout: page
+title_generation: profile
+---
+
+{% assign active_member = site.data.people | where:"name",page._name %}
+{% assign alumni_member = site.data.alumni | where:"name",page._name %}
+{% include people.html people=active_member %}
+
+<h2>{% t headings.activity %}</h2>
+<ul>
+    {% for info in active_member %}
+        <li>{{ site.translations[site.lang].title[info.title] }}: {{info.period.start | localize: "%b %Y"}} - {% t translations.profile.now %} </li>
+    {% endfor %}
+    {% for info in alumni_member %}
+        <li>{{ site.translations[site.lang].title[info.title] }}: {{info.period.start | localize: "%b %Y"}} - {{info.period.end | localize: "%b %Y"}} </li>
+    {% endfor %}
+</ul>
+
+{% assign theses = site.data.theses | where:"author",page._name %}
+{% include theses.html
+    theses=theses
+%}
+
+{% assign publications = site.data.publications | where_exp:"item","item.authors contains page._name" %}
+{% include publications.html
+    publications=publications
+%}
+

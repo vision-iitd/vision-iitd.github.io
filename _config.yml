@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Visual Computing Group
+# title: Chandar Research Lab
 # email: your-email@example.com
 description: ""
 # description: >- # this means to ignore newlines until "baseurl:"
@@ -23,23 +23,46 @@ description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: vision-iitd
+github_username:  chandar-lab
+youtube_channel: UCa885azMHaNWAEEVeJHTjHw
+youtube_channel_name: chandar-lab
+twitter_username: ChandarLab
 
 # Build settings
+encoding: utf-8
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
 
-header_pages:
-  - index.md
-  - people.md
-  - publications.md
-  - join.md
+plugins:
+  - jekyll-redirect-from
+  - jekyll-multiple-languages-plugin
+  - jekyll-datapage-generator
 
 whitelist:
   - jekyll-redirect-from
+
+languages: ["en", "fr"]
+exclude_from_localizations: ["assets/images", "youtube.html"]
+
+header_pages:
+  - index.html
+  - people.html
+  - publications.html
+  - theses.html
+  - join.html
+  - youtube.html
+
+page_gen:
+  - data: people
+    template: profile
+    name: name
+    dir: people
+  - data: alumni
+    template: profile
+    name: name
+    dir: people
+    filter: profile_page
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

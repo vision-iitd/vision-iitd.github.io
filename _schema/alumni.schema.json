@@ -1,0 +1,43 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "title": { "enum": ["pi", "postdoc", "phd", "master", "intern"] },
+          "profile_page": { "type": "boolean" },
+          "website": { "type": "string" },
+          "period": {
+            "type": "object",
+            "properties": {
+              "start": { "$ref": "#/definitions/date" },
+              "end": { "$ref": "#/definitions/date" }
+            },
+            "required": [ "start", "end" ]
+          },
+          "next": {
+            "type": "object",
+            "properties": {
+              "en": { "type": "string" },
+              "fr": { "type": "string" }
+            },
+            "required": [ "en", "fr" ]
+          }
+        },
+        "required": [
+          "name",
+          "title",
+          "profile_page",
+          "period",
+          "next"
+        ]
+    },
+    "definitions": {
+        "date": {
+            "type": "string",
+            "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+            "example": "2019-05-17"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{%- for name in include.names -%}
+  {% include linked_person.html name=name %}
+  {%- if forloop.rindex > 2 -%}, {% endif %}
+  {%- if site.lang == 'en' -%}
+    {%- if forloop.rindex == 2 and forloop.length > 2 -%}, {% endif %}
+    {% if forloop.rindex == 2 %} and {% endif %}
+  {%- elsif site.lang == "fr" -%}
+    {% if forloop.rindex == 2 %} et {% endif %}
+  {%- endif -%}
+{%- endfor -%}

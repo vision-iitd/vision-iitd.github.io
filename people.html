@@ -1,0 +1,42 @@
+---
+layout: page
+title: pages.people
+permalink: /people/
+---
+
+<h2>{% t headings.principal_investigator %}</h2>
+
+{% assign pis = site.data.people | where: "title", "pi"  %}
+{% include people.html people = pis %}
+
+<h2>{% t headings.postdocs %}</h2>
+
+{% assign postdocs = site.data.people | where: "title", "postdoc"  %}
+{% include people.html people = postdocs %}
+
+<h2>{% t headings.phd_students %}</h2>
+
+{% assign phds = site.data.people | where: "title", "phd"  %}
+{% include people.html people = phds %}
+
+<h2>{% t headings.masters_students %}</h2>
+
+{% assign masters = site.data.people | where: "title", "master"  %}
+{% include people.html people = masters %}
+
+<h2>{% t headings.interns_ras %}</h2>
+
+{% assign interns = site.data.people | where: "title", "intern"  %}
+{% include people.html people = interns %}
+
+<h2>{% t headings.alumni_and_their_next_step %}</h2>
+
+<h3>{% t headings.masters_students %}</h3>
+
+{% assign alumni_masters = site.data.alumni | where: "title", "master" %}
+{% include people_alumni.html people = alumni_masters %}
+
+<h3>{% t headings.interns_ras %}</h3>
+
+{% assign alumni_interns = site.data.alumni | where: "title", "intern" %}
+{% include people_alumni.html people = alumni_interns %}

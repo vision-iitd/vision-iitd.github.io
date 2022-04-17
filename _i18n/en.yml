@@ -1,0 +1,43 @@
+langs:
+  en: En
+  fr: Fr
+pages:
+  home: Home
+  people: People
+  join: Join Us
+  publications: Publications
+  theses: Theses
+  youtube: Youtube Channel
+site:
+  title: Chandar Research Lab
+title:
+  pi: Principal Investigator
+  postdoc: Postdocs
+  phd: PhD Student
+  master: Master's Student
+  intern: Intern
+headings:
+  activity: Activity
+  about_the_lab: About the Lab
+  news: News
+  master_thesis: Master's thesis
+  phd_thesis: PhD thesis
+  preprints: Preprints
+  conference_and_journal_papers: Conference and Journal Papers
+  principal_investigator: Principal Investigator
+  postdocs: Postdocs
+  phd_students: PhD Students
+  masters_students: Masters Students
+  interns_ras: Interns/RAs
+  alumni_and_their_next_step: Alumni and their next step
+translations:
+  person:
+    cosupervisor: Co-supervisor
+    research: Research Areas
+  profile:
+    now: now
+  thesis:
+    by: by
+    with: with
+    as_supervisor: as supervisor
+    as_supervisors: as supervisors

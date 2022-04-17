@@ -1,0 +1,43 @@
+langs:
+  en: En
+  fr: Fr
+pages:
+  home: Accueil
+  people: Membres
+  join: Joignez-nous
+  publications: Publications
+  theses: Thèses
+  youtube: Chaîne Youtube
+site:
+  title: Laboratoire de Recherche Chandar
+title:
+  pi: Chercheur principal
+  postdoc: Chercheur postdoctoral
+  phd: Étudiant au doctorat
+  master: Étudiant à la maitrise
+  intern: Stagiaire
+headings:
+  activity: Activité
+  about_the_lab: À propos du laboratoire
+  news: Nouvelles
+  master_thesis: Thèse de maitrise
+  phd_thesis: Thèse de doctorat
+  preprints: Prépublications
+  conference_and_journal_papers: Articles de conférence et de revue
+  principal_investigator: Chercheur principal
+  postdocs: Chercheur postdoctorals
+  phd_students: Étudiants au doctorat
+  masters_students: Étudiants à la maitrise
+  interns_ras: Stagiaires/RAs
+  alumni_and_their_next_step: Les anciens étudiants et la suite de leur parcours
+translations:
+  person:
+    cosupervisor: Co-superviseur
+    research: Domaines de recherche
+  profile:
+    now: maintenant
+  thesis:
+    by: par
+    with: avec
+    as_supervisor: comme superviseur
+    as_supervisors: comme superviseurs
