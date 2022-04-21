@@ -51,7 +51,7 @@ permalink: /people/
 %}
 </li>
 
-
+<li>
 {% include person.html 
     src="/assets/images/bios/gabriele-prato.jpg" 
     name="Soumen Basu" 
