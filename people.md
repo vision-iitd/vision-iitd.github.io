@@ -31,11 +31,22 @@ permalink: /people/
 # PhD Students
 
 <ul class='people'>
+
 <li>
 {% include person.html 
     src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Example" 
-    url="https://jnikhilreddy.github.io/join/"
+    name="Ramya Hebbalgappe" 
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/gabriele-prato.jpg" 
+    name="Soumen Basu" 
+    url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
 %}
 </li>
@@ -48,7 +59,7 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/mohamed-abdelsalam.png"
-    name="Example"
+    name="Kunal Dargon"
     url="https://jnikhilreddy.github.io/join/" 
     research="Incremental learning"
 %}
