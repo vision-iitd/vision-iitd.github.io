@@ -54,7 +54,7 @@ permalink: /people/
 <li>
 {% include person.html 
     src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Soumen Basu" 
+    name="Nikhil Jangamreddy" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
 %}
