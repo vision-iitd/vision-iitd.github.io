@@ -16,8 +16,8 @@ p {
 }
 ul.people{list-style-type:none;padding-left:0; text-align: left;}
 ul.people li div.row{position: relative;width: auto}
-ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:10px;margin-left:1em;}
-ul.people li div.text{font-size: 10px;}
+ul.people li div.info{height:auto;width:24%;display:inline-block;position:absolute;top:10px;margin-left:1em;}
+ul.people li div.text{font-size: 12px;}
 // @include media-query($on-laptop) {
 // }
 ul.people li{display:inline-block;margin-right:2em;width:24%}
@@ -25,4 +25,4 @@ ul.people li{display:inline-block;margin-right:2em;width:24%}
     ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
 // ul.people li{margin-right:2em;text-align:left;}
-ul.people li img{width:60px;height:60px;border-radius:30px;margin:8px auto}
+ul.people li img{width:70px;height:70px;border-radius:35px;margin:8px auto}

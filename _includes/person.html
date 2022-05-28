@@ -15,7 +15,7 @@
         {{include.name}}
         {% endif %}
         <br>
-        <div class='text'>
+        <div class='text' style="font-size:12px">
             {% if include.affiliation != "" and include.affiliation != nil %}
             {{include.affiliation}}
             <br>
@@ -28,7 +28,7 @@
             Research Areas: {{include.research}}
             {% endif %}
             {% if include.year != "" and include.year != nil %}
-            Expected: {{include.year}}
+            Started: {{include.year}}
             {% endif %}
         </div>
     </div>
