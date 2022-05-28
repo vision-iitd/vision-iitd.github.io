@@ -16,11 +16,11 @@ p {
 }
 ul.people{list-style-type:none;padding-left:0; text-align: left;}
 ul.people li div.row{position: relative;width: auto}
-ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:10px;margin-left:1em;}
+ul.people li div.info{height:auto;width:33%;display:table-cell;position:absolute;top:10px;margin-left:1em;}
 ul.people li div.text{font-size: 12px;}
 // @include media-query($on-laptop) {
 // }
-ul.people li{display:inline-block;margin-right:1em;width:33%}
+ul.people li{display:table-cell;margin-right:1em;width:auto}
 @include media-query($on-palm) {
     ul.people li{display:inline-block;margin-right:1em;margin-bottom:1em;width:100%}
 }
