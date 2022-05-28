@@ -36,7 +36,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/ankita-r.jpg" 
     name="Ankita Raj" 
-    url="https://jnikhilreddy.github.io/"
+    url="https://www.cse.iitd.ac.in/~ankita/"
     research="Trustworthy ML, Privacy and Security in Computer Vision"
     year="2019"
 %}
@@ -47,7 +47,7 @@ permalink: /people/
     src="/assets/images/bios/soumen-b.jpg" 
     name="Soumen Basu" 
     url="https://www.cse.iitd.ac.in/~soumen"
-    research="Medical Imaging, Deep Learning"
+    research="Deep Learning, Medical Image Analysis"
     year="2019"
 %}
 </li>
@@ -56,9 +56,9 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/krithika-r.jpg" 
     name="Dr. Krithika Rangarajan"
-    affiliation="AIIMS, New Delhi (Assoc. Prof.)"
-    url="https://jnikhilreddy.github.io/"
-    research="Medical Imaging"
+    affiliation="Associate Professor, AIIMS, New Delhi"
+    url="https://scholar.google.co.in/citations?hl=en&user=6A3dai4AAAAJ"
+    research="Medical Image Analysis"
     year="2019"
 %}
 </li>
@@ -67,8 +67,8 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/ramya-h.jpg" 
     name="Ramya Hebbalgappe" 
-    affiliation="TCS Innovation Labs"
-    url="https://jnikhilreddy.github.io/"
+    affiliation="Senior Researcher, TCS Reseach"
+    url="https://scholar.google.com/citations?user=IJjnjZIAAAAJ&hl=en"
     research="Trustworthy ML, Computer Vision, Computational Photography"
     year="2019"
 %}
@@ -78,7 +78,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/rohan-d.jpg" 
     name="Rohan Dhanakshirur" 
-    url="https://jnikhilreddy.github.io/"
+    url="https://scholar.google.co.in/citations?user=ew9VPnAAAAAJ&hl=en"
     research="Computer Vision, Machine learning"
     year="2019"
 %}
@@ -98,7 +98,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/siddharth-s.jpg" 
     name="Siddharth Shrivastava" 
-    url="https://jnikhilreddy.github.io/"
+    url="https://www.linkedin.com/in/siddharth-shrivastava-/"
     research="Deep Learning, Computer Vision, Autonomous Driving"
     year="2020"
 %}
@@ -108,9 +108,9 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/krithika-r.jpg" 
     name="Dr. Pankaj Gupta"
-    affiliation="PGIMER, Chandigarh (Assoc. Prof.)"
-    url="https://jnikhilreddy.github.io/"
-    research="Medical Imaging"
+    affiliation="Associate Professor, PGIMER, Chandigarh"
+    url="https://scholar.google.co.in/citations?user=kSp3fLMAAAAJ&hl=en"
+    research="Radiodiagnosis, Medical Image Analysis"
     year="2021"
 %}
 </li>
@@ -119,7 +119,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/sweta-m.jpg" 
     name="Sweta Mahajan" 
-    url="https://jnikhilreddy.github.io/"
+    url="https://swet96.github.io/"
     research="Uncertainty estimation and calibration in computer vision"
     year="2021"
 %}
