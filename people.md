@@ -150,6 +150,7 @@ permalink: /people/
     research="Incremental learning"
 %}
 </li>
+</ul>
 
 # Interns/RAs
 <ul class='people'>
