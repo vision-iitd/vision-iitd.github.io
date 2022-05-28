@@ -21,7 +21,7 @@ permalink: /people/
     src="https://www.cse.iitd.ac.in/~chetan/images/chetan-iiitd.jpg" 
     name="Dr. Chetan Arora" 
     url="http://www.cse.iitd.ernet.in/~chetan/"
-    Position="Associate"
+    position="Associate Professor"
     research="Computer Vision, Machine learning"
 %}
 </li>
@@ -38,6 +38,7 @@ permalink: /people/
     name="Ankita Raj" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2019"
 %}
 </li>
 
@@ -47,6 +48,7 @@ permalink: /people/
     name="Soumen Basu" 
     url="https://www.cse.iitd.ac.in/~soumen"
     research="Medical Imaging, Deep Learning"
+    year="2019"
 %}
 </li>
 
@@ -57,6 +59,7 @@ permalink: /people/
     affiliation="AIIMS, New Delhi"
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2019"
 %}
 </li>
 
@@ -67,6 +70,7 @@ permalink: /people/
     affiliation="TCS Innovation Labs"
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2019"
 %}
 </li>
 
@@ -76,6 +80,7 @@ permalink: /people/
     name="Rohan Dhanakshirur" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2019"
 %}
 </li>
 
@@ -85,6 +90,7 @@ permalink: /people/
     name="Nikhil Jangamreddy" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2020"
 %}
 </li>
 
@@ -94,6 +100,7 @@ permalink: /people/
     name="Siddharth Shrivastava" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2020"
 %}
 </li>
 
@@ -104,6 +111,7 @@ permalink: /people/
     affiliation="PGIMER, Chandigarh"
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2021"
 %}
 </li>
 
@@ -113,6 +121,7 @@ permalink: /people/
     name="Sweta Mahajan" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
+    year="2021"
 %}
 </li>
 
