@@ -21,7 +21,7 @@ permalink: /people/
     src="https://www.cse.iitd.ac.in/~chetan/images/chetan-iiitd.jpg" 
     name="Dr. Chetan Arora" 
     url="http://www.cse.iitd.ernet.in/~chetan/"
-    position="Associate Professor"
+    affiliation="Associate Professor, IIT Delhi"
     research="Computer Vision, Machine learning"
 %}
 </li>
@@ -56,7 +56,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/krithika-r.jpg" 
     name="Dr. Krithika Rangarajan"
-    affiliation="AIIMS, New Delhi"
+    affiliation="AIIMS, New Delhi (Assoc. Prof.)"
     url="https://jnikhilreddy.github.io/"
     research="Medical Imaging"
     year="2019"
@@ -108,7 +108,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/krithika-r.jpg" 
     name="Dr. Pankaj Gupta"
-    affiliation="PGIMER, Chandigarh"
+    affiliation="PGIMER, Chandigarh (Assoc. Prof.)"
     url="https://jnikhilreddy.github.io/"
     research="Medical Imaging"
     year="2021"
@@ -138,8 +138,18 @@ permalink: /people/
     research="Incremental learning"
 %}
 </li>
-
 </ul>
+
+# B.Tech Students
+<ul class='people'>
+<li>
+{% include person.html
+    src="/assets/images/bios/mohamed-abdelsalam.png"
+    name="Kunal Dargon"
+    url="https://jnikhilreddy.github.io/join/" 
+    research="Incremental learning"
+%}
+</li>
 
 # Interns/RAs
 <ul class='people'>
