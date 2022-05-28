@@ -17,10 +17,10 @@ p {
 ul.people{list-style-type:none;padding-left:0; text-align: left;}
 ul.people li div.row{position: relative;width: auto}
 ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:10px;margin-left:1em;}
-ul.people li div.text{font-size: 14px;}
+ul.people li div.text{font-size: 10px;}
 // @include media-query($on-laptop) {
 // }
-ul.people li{display:inline-block;margin-right:2em;width:45%}
+ul.people li{display:inline-block;margin-right:2em;width:24%}
 @include media-query($on-palm) {
     ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }

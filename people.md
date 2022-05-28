@@ -34,18 +34,27 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/gabriele-prato.jpg" 
-    name="Ramya Hebbalgappe" 
+    src="/assets/images/bios/ankita-r.jpg" 
+    name="Ankita Raj" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
 %}
 </li>
 
-
 <li>
 {% include person.html 
-    src="/assets/images/bios/gabriele-prato.jpg" 
+    src="/assets/images/bios/soumen-b.jpg" 
     name="Soumen Basu" 
+    url="https://www.cse.iitd.ac.in/~soumen"
+    research="Medical Imaging, Deep Learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/krithika-r.jpg" 
+    name="Dr. Krithika Rangarajan"
+    affiliation="AIIMS, New Delhi"
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
 %}
@@ -53,12 +62,60 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/gabriele-prato.jpg" 
+    src="/assets/images/bios/ramya-h.jpg" 
+    name="Ramya Hebbalgappe" 
+    affiliation="TCS Innovation Labs"
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/rohan-d.jpg" 
+    name="Rohan Dhanakshirur" 
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/nikhil-j.jpg" 
     name="Nikhil Jangamreddy" 
     url="https://jnikhilreddy.github.io/"
     research="Computer Vision, Machine learning"
 %}
 </li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/siddharth-s.jpg" 
+    name="Siddharth Shrivastava" 
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/krithika-r.jpg" 
+    name="Dr. Pankaj Gupta"
+    affiliation="PGIMER, Chandigarh"
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/sweta-m.jpg" 
+    name="Sweta Mahajan" 
+    url="https://jnikhilreddy.github.io/"
+    research="Computer Vision, Machine learning"
+%}
+</li>
+
 </ul>
 
 
