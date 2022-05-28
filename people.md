@@ -37,7 +37,7 @@ permalink: /people/
     src="/assets/images/bios/ankita-r.jpg" 
     name="Ankita Raj" 
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Trustworthy ML, Privacy and Security in Computer Vision"
     year="2019"
 %}
 </li>
@@ -58,7 +58,7 @@ permalink: /people/
     name="Dr. Krithika Rangarajan"
     affiliation="AIIMS, New Delhi"
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Medical Imaging"
     year="2019"
 %}
 </li>
@@ -69,7 +69,7 @@ permalink: /people/
     name="Ramya Hebbalgappe" 
     affiliation="TCS Innovation Labs"
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Trustworthy ML, Computer Vision, Computational Photography"
     year="2019"
 %}
 </li>
@@ -99,7 +99,7 @@ permalink: /people/
     src="/assets/images/bios/siddharth-s.jpg" 
     name="Siddharth Shrivastava" 
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Deep Learning, Computer Vision, Autonomous Driving"
     year="2020"
 %}
 </li>
@@ -110,7 +110,7 @@ permalink: /people/
     name="Dr. Pankaj Gupta"
     affiliation="PGIMER, Chandigarh"
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Medical Imaging"
     year="2021"
 %}
 </li>
@@ -120,7 +120,7 @@ permalink: /people/
     src="/assets/images/bios/sweta-m.jpg" 
     name="Sweta Mahajan" 
     url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    research="Uncertainty estimation and calibration in computer vision"
     year="2021"
 %}
 </li>
