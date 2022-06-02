@@ -16,7 +16,7 @@ p {
 }
 ul.people{list-style-type:none;padding-left:0; text-align: left;}
 ul.people li div.row{position: relative;width: auto}
-ul.people li div.info{height:auto;width:33%;display:table-cell;position:absolute;top:10px;margin-left:2em;}
+ul.people li div.info{height:auto;width:50%;display:table-cell;position:absolute;top:10px;margin-left:2em;}
 ul.people li div.text{font-size: 12px;}
 // @include media-query($on-laptop) {
 // }
