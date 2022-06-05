@@ -30,7 +30,7 @@ ul.people li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
 
 
 ul.people1{list-style-type:none;padding-left:0; text-align: left;}
-ul.people1 li div.row{position: absolute;width: auto}
+ul.people1 li div.row{position: relative;width: auto}
 ul.people1 li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:10px;margin-left:1em;}
 ul.people1 li div.text{font-size: 15px;}
 // @include media-query($on-laptop) {
