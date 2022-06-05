@@ -32,9 +32,9 @@ ul.people1 li div.info{height:auto;width:auto;display:inline-block;position:abso
 ul.people1 li div.text{font-size: 15px;}
 // @include media-query($on-laptop) {
 // }
-ul.people1 li{display:inline-block;margin-right:2em;width:67%}
+ul.people1 li{display:inline-block;margin-right:2em;width:45%}
 @include media-query($on-palm) {
     ul.people1 li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
 // ul.people li{margin-right:2em;text-align:left;}
-ul.people1 li img{width:100px;height:100px;border-radius:10px;margin:10px auto}
+ul.people1 li img{width:10px;height:10px;border-radius:10px;margin:10px auto}
