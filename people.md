@@ -30,7 +30,7 @@ permalink: /people/
 
 # PhD Students
 
-<ul class='people'>
+<ul class='people1'>
 
 <li>
 {% include person.html 
