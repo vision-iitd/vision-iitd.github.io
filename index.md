@@ -27,4 +27,3 @@ Vision group (IIT Delhi) is a Computer vision research group in the Department o
 
 * (June 2021) Visual computing group, IIT Delhi launches official group website.
 * (June 2021) Visual computing group, IIT Delhi launches official group website.
-* (June 2021) Visual computing group, IIT Delhi launches official group website.
