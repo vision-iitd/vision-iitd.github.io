@@ -8,7 +8,6 @@ $on-laptop:        1200px;
 @import "{{site.theme}}";
 ul {
     text-align: justify;
-    height: 21px;
 }
 p {
     text-align: justify;
@@ -19,7 +18,7 @@ ul.people li div.info{height:auto;width:auto;display:inline-block;position:absol
 ul.people li div.text{font-size: 15px;}
 // @include media-query($on-laptop) {
 // }
-ul.people li{display:inline-block;margin-right:2em;width:45%}
+ul.people li{width: fit-content;margin-right:2em;width:45%}
 @include media-query($on-palm) {
     ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
