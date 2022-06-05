@@ -35,7 +35,7 @@ ul.people1 li div.info{height:auto;width:auto;display:inline-block;position:abso
 ul.people1 li div.text{font-size: 15px;}
 // @include media-query($on-laptop) {
 // }
-ul.people1 li{display:inline-block;margin-right:2em;width:33%}
+ul.people1 li{display:inline-block;margin-right:2em;width:67%}
 @include media-query($on-palm) {
     ul.people1 li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
