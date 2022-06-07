@@ -119,7 +119,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/krithika-r.jpg" 
+    src="/assets/images/bios/pankaj-g.jfif" 
     name="Dr. Pankaj Gupta"
     affiliation="Associate Professor, PGIMER, Chandigarh"
     url="https://scholar.google.co.in/citations?user=kSp3fLMAAAAJ&hl=en"
