@@ -150,7 +150,7 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/ashutosh-a.png"
     name="Ashutosh Agarwal"
-    url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ
+    url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
     research="Mobility, Fairness, Few-shot learning"
 %}
 </li>
