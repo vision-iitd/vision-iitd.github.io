@@ -65,10 +65,10 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/krithika-r.jpg" 
+    src="/assets/images/bios/krithika-r.jfif" 
     name="Dr. Krithika Rangarajan"
     affiliation="Associate Professor, AIIMS, New Delhi"
-    url="https://scholar.google.co.in/citations?hl=en&user=6A3dai4AAAAJ"
+    url="https://www.linkedin.com/in/krithika-rangarajan-65586039/"
     research="Medical Image Analysis"
     year="2019"
 %}
@@ -251,7 +251,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/dinesh-k.jpg"
+    src="/assets/images/bios/dinesh-k.jfif"
     name="Dinesh Khandelwal"
     url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
     employment="Research Scientist, IBM Research, India"
@@ -261,7 +261,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/ishant-s.jpg"
+    src="/assets/images/bios/ishant-s.jfif"
     name="Ishant Shanu"
     url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
     employment="Postdoc, NUS Singapore"
@@ -271,7 +271,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/suvam-p.jpg"
+    src="/assets/images/bios/suvam-p.jfif"
     name="Suvam Patra"
     url="https://scholar.google.co.in/citations?hl=en&user=b32zA_kAAAAJ" 
     employment="Applied Research Scientist, Facebook Reality Labs, London"
