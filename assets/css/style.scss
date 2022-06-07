@@ -22,7 +22,7 @@ ul.people li{
     display: inline-block;
     margin: 2em;
     flex-grow: 1;
-    width: calc(33% - 2em);}
+    width: calc(40% - 2em);}
 @include media-query($on-palm) {
     ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
