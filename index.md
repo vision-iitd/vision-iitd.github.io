@@ -10,9 +10,9 @@ redirect_from:
     - /home
 ---
 
-<img src="/assets/images/iitd-logo.png" width="8%" height="8%" style="float: right;">
+<img src="/assets/images/iitd-logo.png" width="70px" height="70px" style="float: right;">
 
-<img src="/assets/images/wordcloud-light.png" width="30%" height="30%" style="border:5px solid white; float: left;" >
+<img src="/assets/images/wordcloud-light.png" width="35%" height="35%" style="border:5px solid white; float: left;" >
 <br>
 
 
@@ -21,10 +21,8 @@ The Computer Vision group is a research group in the Department of Computer and 
 Currently, the group focuses on several areas in computer vision and machine learning including Trusworthy AI, Cancer Detection, Mobility, and Egocentric Vision. For more details, please check the publications.
 We have access to the latest Nvidia V100 (32 GB) and A100 (40GB, 80GB) GPUs, and a RAID data server of size ~90TB. 
 <br>
-<br>
-<br>
 
-# News
+## News
 
 * (June 2022) One paper accepted in MICCAI 2022.
 * (May 2022) Lab's own data server is installed.
