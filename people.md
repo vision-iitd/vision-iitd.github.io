@@ -76,17 +76,6 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/ramya-h.jpg" 
-    name="Ramya Hebbalgappe" 
-    affiliation="Senior Researcher, TCS Reseach"
-    url="https://scholar.google.com/citations?user=IJjnjZIAAAAJ&hl=en"
-    research="Trustworthy ML, Computer Vision, Computational Photography"
-    year="2019"
-%}
-</li>
-
-<li>
-{% include person.html 
     src="/assets/images/bios/rohan-d.jpg" 
     name="Rohan Dhanakshirur" 
     url="https://scholar.google.co.in/citations?user=ew9VPnAAAAAJ&hl=en"
@@ -97,8 +86,20 @@ permalink: /people/
 
 <li>
 {% include person.html 
+    src="/assets/images/bios/ramya-h.jpg" 
+    name="Ramya Hebbalgappe" 
+    affiliation="Senior Researcher, TCS Reseach"
+    url="https://scholar.google.com/citations?user=IJjnjZIAAAAJ&hl=en"
+    research="Trustworthy ML, Computer Vision, Computational Photography"
+    year="2020"
+%}
+</li> 
+
+<li>
+{% include person.html 
     src="/assets/images/bios/nikhil-r.png" 
     name="Nikhil Jangamreddy" 
+    affiliation="Joint PhD Univ. of Queensland and IIT Delhi"
     url="https://www.linkedin.com/in/nikhil-reddy-1632aa92/"
     research="Domain Generalization, Semantic Segmentation"
     year="2020"
