@@ -235,7 +235,7 @@ permalink: /people/
     name="Britty Baby"
     url="https://scholar.google.com/citations?user=w99r4LsAAAAJ&hl=en&oi=ao" 
     employment="Scientist B, AIIMS New Delhi"
-    year="2022 (Thesis submitted)"
+    defend="2022 (Thesis submitted)"
 %}
 </li>
 
@@ -245,7 +245,7 @@ permalink: /people/
     name="Anupam Sobti"
     url="https://anupamsobti.github.io/" 
     employment="Postdoc, Microsoft Research, India"
-    year="2021 (Thesis submitted)"
+    defend="2021 (Thesis submitted)"
 %}
 </li>
 
@@ -255,7 +255,7 @@ permalink: /people/
     name="Dinesh Khandelwal"
     url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
     employment="Research Scientist, IBM Research, India"
-    year="2020"
+    defend="2020"
 %}
 </li>
 
@@ -265,7 +265,7 @@ permalink: /people/
     name="Ishant Shanu"
     url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
     employment="Postdoc, NUS Singapore"
-    year="2020"
+    defend="2020"
 %}
 </li>
 
@@ -275,7 +275,7 @@ permalink: /people/
     name="Suvam Patra"
     url="https://scholar.google.co.in/citations?hl=en&user=b32zA_kAAAAJ" 
     employment="Applied Research Scientist, Facebook Reality Labs, London"
-    year="2019"
+    defend="2019"
 %}
 </li>
 
