@@ -12,7 +12,7 @@ redirect_from:
 
 <img src="/assets/images/iitd-logo.png" width="80px" height="80px" style="float: right;">
 
-<img src="/assets/images/wordcloud-light.png" width="35%" height="35%" style="border:0px solid white; float: left;" >
+<img src="/assets/images/wordcloud-light.png" width="35%" height="35%" style="border:0px solid white; float: right;" >
 <br>
 
 
