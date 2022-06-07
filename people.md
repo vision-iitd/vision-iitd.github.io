@@ -26,7 +26,17 @@ permalink: /people/
 %}
 </li>
 </ul>
-<!-- |![]("/assets/images/bios/sarath-chandar.jpeg")|| -->
+
+# External Faculty Collaborators
+
+* <a href="https://faculty.iitmandi.ac.in/~aditya/">Aditya Nigam</a>, Assistant Professor, IIT Mandi
+* <a href="http://faculty.iiitd.ac.in/~anands/">Saket Anand</a>, Associate Professor, IIIT Delhi
+* <a href="http://faculty.iiitd.ac.in/~vikram/">Vikram Goyal</a>, Professor, IIIT Delhi
+* <a href="https://faculty.iiit.ac.in/~jawahar/">C.V. Jawahar</a>, Professor, IIIT Hyderabad
+* <a href="https://people.iith.ac.in/vineethnb/">Vineeth N. Balasubramanian</a>, Associate Professor, IIT Hyderabad
+* <a href="https://sites.google.com/view/anbumani/">Anbumani Subramanian</a>, Intel
+* <a href="https://vinaypn.github.io/">Vinay P. Namboodiri</a>, Faculty member, University of Bath, UK
+* <a href="https://www.cs.huji.ac.il/~peleg/">Shmuel Peleg</a>, Professor, Hebrew University of Jerusalem, Israel
 
 # PhD Students
 
@@ -44,9 +54,9 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/soumen-b.jpg" 
+    src="/assets/images/bios/soumen-b.png" 
     name="Soumen Basu" 
-    url="https://www.cse.iitd.ac.in/~soumen"
+    url="ttps://www.cse.iitd.ac.in/~soumen"
     research="Deep Learning, Medical Image Analysis"
     year="2019"
 %}
@@ -86,10 +96,10 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/nikhil-j.jpg" 
+    src="/assets/images/bios/nikhil-r.jpg" 
     name="Nikhil Jangamreddy" 
-    url="https://jnikhilreddy.github.io/"
-    research="Computer Vision, Machine learning"
+    url="https://www.linkedin.com/in/nikhil-reddy-1632aa92/"
+    research="Domain Generalization, Semantic Segmentation"
     year="2020"
 %}
 </li>
@@ -127,45 +137,157 @@ permalink: /people/
 
 </ul>
 
+# External Student Collaborators
+
+* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, IIT Mandi
+* <a href="https://pravin74.github.io/">Pravin Nagar</a>, IIIT Delhi
+* <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, IIIT Delhi
+
 
 # Masters Students
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/mohamed-abdelsalam.png"
+    src="/assets/images/bios/ashutosh-a.png"
+    name="Ashutosh Agarwal"
+    url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ
+    research="Mobility, Fairness, Few-shot learning"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/mayank-g.png"
+    name="Mayank Gupta"
+    url="https://scholar.google.com/citations?user=GQC1floAAAAJ&hl=en" 
+    research="Medical Imaging, Cancer Detection"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/devesh-p.png"
+    name="Devesh Pant"
+    url="https://www.linkedin.com/in/pantdevesh/" 
+    research="Document/ Scene text OCR"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/kunal-d.png"
     name="Kunal Dargon"
-    url="https://jnikhilreddy.github.io/join/" 
-    research="Incremental learning"
+    url="https://www.sites.google.com/view/kunald" 
+    research="Video object segmentation, Multi Object Tracking, Visual scene understanding, Self-supervised learning, 3D Geometry and Graphics"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/suraj-p.png"
+    name="Suraj Patni"
+    url="https://www.linkedin.com/in/suraj-patni" 
+    research="SLAM for Visual Navigation, 3D Reconstruction"
+%}
+</li>
+<li>
+{% include person.html
+    src="/assets/images/bios/ajay-s.png"
+    name="K.N. Ajay Shastry"
+    url="https://www.linkedin.com/in/k-n-ajay-shastry-b48982158/" 
+    research="Face detection "
 %}
 </li>
 </ul>
 
 # B.Tech Students
-<ul class='people'>
-<li>
-{% include person.html
-    src="/assets/images/bios/mohamed-abdelsalam.png"
-    name="Kunal Dargon"
-    url="https://jnikhilreddy.github.io/join/" 
-    research="Incremental learning"
-%}
-</li>
-</ul>
+
+* <a href="https://www.linkedin.com/in/tamajit-banerjee/">Tamajit Banerjee</a> (Computer Vision, Formal Languages and Automata Theory, Reinforcement Learning)
+* <a href="https://github.com/mustafa1728">Mustafa Chasmai</a> (Computer Vision, Machine Learning)
+* <a href="https://www.linkedin.com/in/karantanwar/">Karan Tanwar</a> (SLAM Systems and Monocular depth estimation (Computer Vision))
+* <a href="www.linkedin.com/in/abdur-rahman-0b84341a0/">Abdur Rahman</a> (Computer Vision, Deep Learning)
+* <a href="www.linkedin.com/in/abhinav-singhal-01bba91b6">Abhinav Singhal</a> (Computer Vision, Machine Learning)
+* <a href="https://www.linkedin.com/in/abhishek-kumar-a436081a4/">Abhishek Kumar</a> (Computer Vision)
+* <a href="https://www.linkedin.com/in/amangupta27/">Aman Gupta</a> (Medical Imaging, Detecting Breast Cancer)
+* <a href="">Aryan Jain</a>
+* <a href="">Shravan Manish Nawandar</a>
+* <a href="">Dhruv Kumar Gupta</a>
+* <a href="">Shivam Garg</a>
+* <a href="">Vaibhav Soni</a>
+* <a href="">Saptarshi Dasgupta</a>
+
 
 # Interns/RAs
-<ul class='people'>
-<li>
-{% include person.html
-    src="/assets/images/bios/hadi-nekoei.jpg"
-    name="Example"
-    url="https://jnikhilreddy.github.io/join/" 
-    research="Model-based RL, Multi-agent RL, Lifelong Learning"
-%}
-</li>
-</ul>
+
+* Vidya Moni  
+* Abhipal Sharma 
+* Kartik Nanneboina
+* Medhavi Math
+* Ashish Papanai
+* Tanish Tuteja
+* Chinmay Mittal 
 
 
 # Alumni
 
-**Interns**:  
-0. Example (Jan 2020 - Jun 2020)
+**PhD**:  
+<ul class='people'>
+<li>
+{% include person.html
+    src="/assets/images/bios/britty-b.jpg"
+    name="Britty Baby"
+    url="https://scholar.google.com/citations?user=w99r4LsAAAAJ&hl=en&oi=ao" 
+    employment="Scientist B, AIIMS New Delhi"
+    year="2022 (Thesis submitted)"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/anupam-s.jpg"
+    name="Anupam Sobti"
+    url="https://anupamsobti.github.io/" 
+    employment="Postdoc, Microsoft Research, India"
+    year="2021 (Thesis submitted)"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/dinesh-k.jpg"
+    name="Dinesh Khandelwal"
+    url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
+    employment="Research Scientist, IBM Research, India"
+    year="2020"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/ishant-s.jpg"
+    name="Ishant Shanu"
+    url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
+    employment="Postdoc, NUS Singapore"
+    year="2020"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/suvam-p.jpg"
+    name="Suvam Patra"
+    url="https://scholar.google.co.in/citations?hl=en&user=b32zA_kAAAAJ" 
+    employment="Applied Research Scientist, Facebook Reality Labs, London"
+    year="2019"
+%}
+</li>
+
+</ul>
+
+**B.Techs**:
+
+* <a href="https://www.linkedin.com/in/somanshu-singla-105636214/">Somanshu Singla</a> 
+* <a href="https://www.linkedin.com/in/jatinprakash1511/">Jatin Prakash</a>
+* <a href="https://www.linkedin.com/in/neelabh-madan/">Neelabh Madan</a>
+* <a href="https://www.linkedin.com/in/saluja-simarpreet/">Simarpreet Singh Saluja</a>
+* <a href="https://www.linkedin.com/in/shreyans-nagori-9a29b3190/">Shreyans Nagori</a> 
+* <a href="https://www.linkedin.com/in/vishnu-manogna-mukku-85b038187/">Mukku Vishnumanogna</a> 
+* <a href="https://www.linkedin.com/in/suryakalia/">Surya C. Kalia</a>
+* <a href="https://www.linkedin.com/in/arpanmangal/">Arpan Mangal</a>
+ 

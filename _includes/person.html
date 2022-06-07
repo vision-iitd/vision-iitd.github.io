@@ -15,7 +15,7 @@
         {{include.name}}
         {% endif %}
         <br>
-        <div class='text' style="font-size:12px">
+        <div class='text' style="font-size:11px">
             {% if include.affiliation != "" and include.affiliation != nil %}
             {{include.affiliation}}
             <br>
@@ -24,12 +24,17 @@
             Co-supervisor: {{include.cosupervisor}}
             <br>
             {% endif %}
+            {% if include.employment != "" and include.employment != nil %}
+            First Employment: {{include.employment}}
+            <br>
+            {% endif %}
             {% if include.research != "" and include.research != nil %}
             Research Areas: {{include.research}}
             <br>
             {% endif %}
             {% if include.year != "" and include.year != nil %}
             Started: {{include.year}}
+            <br>
             {% endif %}
         </div>
     </div>
