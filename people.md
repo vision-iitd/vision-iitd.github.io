@@ -56,6 +56,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/soumen-b.png" 
     name="Soumen Basu" 
+    affiliation="Prime Minister's Research Fellow"
     url="ttps://www.cse.iitd.ac.in/~soumen"
     research="Deep Learning, Medical Image Analysis"
     year="2019"
@@ -96,7 +97,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/nikhil-r.jpg" 
+    src="/assets/images/bios/nikhil-r.png" 
     name="Nikhil Jangamreddy" 
     url="https://www.linkedin.com/in/nikhil-reddy-1632aa92/"
     research="Domain Generalization, Semantic Segmentation"
@@ -108,6 +109,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/siddharth-s.jpg" 
     name="Siddharth Shrivastava" 
+    affiliation="Prime Minister's Research Fellow"
     url="https://www.linkedin.com/in/siddharth-shrivastava-/"
     research="Deep Learning, Computer Vision, Autonomous Driving"
     year="2020"
@@ -137,18 +139,11 @@ permalink: /people/
 
 </ul>
 
-# External Student Collaborators
-
-* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, IIT Mandi
-* <a href="https://pravin74.github.io/">Pravin Nagar</a>, IIIT Delhi
-* <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, IIIT Delhi
-
-
 # Masters Students
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/ashutosh-a.png"
+    src="/assets/images/bios/ashutosh-a.jpg"
     name="Ashutosh Agarwal"
     url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
     research="Mobility, Fairness, Few-shot learning"
@@ -156,7 +151,7 @@ permalink: /people/
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/mayank-g.png"
+    src="/assets/images/bios/mayank-g.jpg"
     name="Mayank Gupta"
     url="https://scholar.google.com/citations?user=GQC1floAAAAJ&hl=en" 
     research="Medical Imaging, Cancer Detection"
@@ -172,7 +167,7 @@ permalink: /people/
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/kunal-d.png"
+    src="/assets/images/bios/kunal-d.jpg"
     name="Kunal Dargon"
     url="https://www.sites.google.com/view/kunald" 
     research="Video object segmentation, Multi Object Tracking, Visual scene understanding, Self-supervised learning, 3D Geometry and Graphics"
@@ -180,7 +175,7 @@ permalink: /people/
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/suraj-p.png"
+    src="/assets/images/bios/suraj-p.jpg"
     name="Suraj Patni"
     url="https://www.linkedin.com/in/suraj-patni" 
     research="SLAM for Visual Navigation, 3D Reconstruction"
@@ -188,7 +183,7 @@ permalink: /people/
 </li>
 <li>
 {% include person.html
-    src="/assets/images/bios/ajay-s.png"
+    src="/assets/images/bios/ajay-s.jpg"
     name="K.N. Ajay Shastry"
     url="https://www.linkedin.com/in/k-n-ajay-shastry-b48982158/" 
     research="Face detection "
@@ -223,6 +218,11 @@ permalink: /people/
 * Tanish Tuteja
 * Chinmay Mittal 
 
+# External Student Collaborators
+
+* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, IIT Mandi
+* <a href="https://pravin74.github.io/">Pravin Nagar</a>, IIIT Delhi
+* <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, IIIT Delhi
 
 # Alumni
 
@@ -230,7 +230,7 @@ permalink: /people/
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/britty-b.jpg"
+    src="/assets/images/bios/britty-b.png"
     name="Britty Baby"
     url="https://scholar.google.com/citations?user=w99r4LsAAAAJ&hl=en&oi=ao" 
     employment="Scientist B, AIIMS New Delhi"
