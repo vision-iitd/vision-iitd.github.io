@@ -225,6 +225,11 @@ permalink: /people/
 * <a href="https://pravin74.github.io/">Pravin Nagar</a>, IIIT Delhi
 * <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, IIIT Delhi
 
+# Staff
+
+* <a href="manishkumar@cse.iitd.ac.in">Manish Kumar</a>, Senior Lab Assistant
+* <a href="deep98.cstaff@cse.iitd.ac.in">Deepa Tiwari</a>, Admin Staff, SIT-009, Phone: 011-26596080
+
 # Alumni
 
 **PhD**:  
@@ -281,7 +286,7 @@ permalink: /people/
 
 </ul>
 
-**B.Techs**:
+**B.Tech**:
 
 * <a href="https://www.linkedin.com/in/somanshu-singla-105636214/">Somanshu Singla</a> 
 * <a href="https://www.linkedin.com/in/jatinprakash1511/">Jatin Prakash</a>
