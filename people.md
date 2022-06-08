@@ -268,7 +268,7 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/ishant-s.jfif"
     name="Ishant Shanu"
-    url="https://scholar.google.co.in/citations?user=Pi-SqXwAAAAJ&hl=en" 
+    url="https://sites.google.com/iiitd.ac.in/ishant/home" 
     employment="Postdoc, NUS Singapore"
     defend="2020"
 %}
