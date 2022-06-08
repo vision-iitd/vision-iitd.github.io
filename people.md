@@ -88,7 +88,7 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/ramya-h.jpg" 
     name="Ramya Hebbalgappe" 
-    affiliation="Senior Researcher, TCS Reseach"
+    affiliation="Senior Scientist, TCS Reseach"
     url="https://scholar.google.com/citations?user=IJjnjZIAAAAJ&hl=en"
     research="Trustworthy ML, Computer Vision, Computational Photography"
     year="2020"
