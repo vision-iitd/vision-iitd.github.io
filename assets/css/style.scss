@@ -15,7 +15,7 @@ p {
 ul.people{list-style-type:none;padding-left:0; text-align: left;}
 ul.people li div.row{position: relative;width: auto}
 ul.people li div.info{height:auto;width:auto;display:inline-block;position:absolute;top:15px;margin-left:1em;}
-ul.people li div.text{font-size: 13px;}
+ul.people li div.text{font-size: 14px;}
 // @include media-query($on-laptop) {
 // }
 ul.people li{
@@ -27,7 +27,7 @@ ul.people li{
     ul.people li{display:inline-block;margin-right:2em;margin-bottom:2em;width:100%}
 }
 // ul.people li{margin-right:2em;text-align:left;}
-ul.people li img{width:80px;height:80px;border-radius:35px;margin:10px auto}
+ul.people li img{width:90px;height:90px;border-radius:35px;margin:10px auto}
 
 
 
