@@ -18,7 +18,7 @@ permalink: /people/
 <ul class='people'>
 <li>
 {% include person.html 
-    src="https://www.cse.iitd.ac.in/~chetan/images/chetan-iiitd.jpg" 
+    src="/assets/images/chetan.png" 
     name="Dr. Chetan Arora" 
     url="http://www.cse.iitd.ernet.in/~chetan/"
     affiliation="Associate Professor, IIT Delhi"
