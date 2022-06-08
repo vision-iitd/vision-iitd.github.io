@@ -196,7 +196,7 @@ permalink: /people/
 
 * <a href="https://www.linkedin.com/in/tamajit-banerjee/">Tamajit Banerjee</a> (Computer Vision, Formal Languages and Automata Theory, Reinforcement Learning)
 * <a href="https://github.com/mustafa1728">Mustafa Chasmai</a> (Computer Vision, Machine Learning)
-* <a href="https://www.linkedin.com/in/karantanwar/">Karan Tanwar</a> (SLAM Systems and Monocular depth estimation (Computer Vision))
+* <a href="https://www.linkedin.com/in/karantanwar/">Karan Tanwar</a> (SLAM Systems and Monocular Depth Estimation)
 * <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Abdur Rahman</a> (Computer Vision, Deep Learning)
 * <a href="https://www.linkedin.com/in/abhinav-singhal-01bba91b6">Abhinav Singhal</a> (Computer Vision, Machine Learning)
 * <a href="https://www.linkedin.com/in/abhishek-kumar-a436081a4/">Abhishek Kumar</a> (Computer Vision)
