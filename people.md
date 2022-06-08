@@ -273,7 +273,7 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/suvam-p.jfif"
     name="Suvam Patra"
-    url="https://scholar.google.co.in/citations?hl=en&user=b32zA_kAAAAJ" 
+    url="https://www.linkedin.com/in/suvam-patra-3803321b/?originalSubdomain=uk" 
     employment="Applied Research Scientist, Facebook Reality Labs, London"
     defend="2019"
 %}
