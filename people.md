@@ -98,7 +98,7 @@ permalink: /people/
 <li>
 {% include person.html 
     src="/assets/images/bios/nikhil-r.png" 
-    name="Nikhil Jangamreddy" 
+    name="Nikhil Reddy" 
     affiliation="Joint PhD Univ. of Queensland and IIT Delhi"
     url="https://www.linkedin.com/in/nikhil-reddy-1632aa92/"
     research="Domain Generalization, Semantic Segmentation"
