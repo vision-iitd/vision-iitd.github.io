@@ -221,9 +221,9 @@ permalink: /people/
 
 # External Student Collaborators
 
-* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, IIT Mandi
-* <a href="https://pravin74.github.io/">Pravin Nagar</a>, IIIT Delhi
-* <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, IIIT Delhi
+* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, PhD Student, IIT Mandi (Co-advisor: Chetan Arora)
+* <a href="https://pravin74.github.io/">Pravin Nagar</a>, PhD Student, IIIT Delhi (Advisor: Chetan Arora)
+* <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, PhD Student, IIIT Delhi (Co-advisor: Chetan Arora)
 
 # Staff
 
