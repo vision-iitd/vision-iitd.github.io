@@ -27,6 +27,6 @@ We have access to the latest Nvidia V100 (32 GB) and A100 (40GB, 80GB) GPUs, and
 
 * (June 2022) One paper accepted in MICCAI 2022.
 * (May 2022) Lab's own data server is installed.
-* (May 2022) 3 new A100 (80 GB) GPUs installed, thanks to the department.
+* (May 2022) 3 new A100 (80 GB) GPUs installed.
 * (March 2022) Three papers accepted in CVPR 2022.
 * (March 2022) Group website is up.
