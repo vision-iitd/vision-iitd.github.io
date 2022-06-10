@@ -171,7 +171,7 @@ permalink: /people/
     src="/assets/images/bios/kunal-d.jpg"
     name="Kunal Dargon"
     url="https://www.sites.google.com/view/kunald" 
-    research="Video object segmentation, Multi Object Tracking, Visual scene understanding, Self-supervised learning, 3D Geometry and Graphics"
+    research="Video Object Segmentation and Tracking, Medical Imaging"
 %}
 </li>
 <li>
