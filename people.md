@@ -169,7 +169,7 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/kunal-d.jpg"
-    name="Kunal Dargon"
+    name="Kunal Dargan"
     url="https://www.sites.google.com/view/kunald" 
     research="Video Object Segmentation and Tracking, Medical Imaging"
 %}
