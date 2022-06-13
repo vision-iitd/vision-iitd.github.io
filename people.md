@@ -248,7 +248,7 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/anupam-s.jpg"
     name="Anupam Sobti"
-    url="https://anupamsobti.github.io/" 
+    url="https://anupamsobti.github.io" 
     employment="Postdoc, Microsoft Research, India"
     defend="2021 (Thesis submitted)"
 %}
