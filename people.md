@@ -213,6 +213,7 @@ permalink: /people/
 
 * Vidya Moni  
 * Abhipal Sharma 
+* Aatif Nisar Dar
 * Kartik Nanneboina
 * Medhavi Math
 * Ashish Papanai
