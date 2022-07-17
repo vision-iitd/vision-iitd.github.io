@@ -24,10 +24,11 @@ We have access to the latest Nvidia V100 (32 GB) and A100 (40GB, 80GB) GPUs, and
 <br>
 
 # News
-* (July 2022) Two papers accepted in ECCV 2022.
-* (June 2022) One paper accepted in ECML 2022 (Research track).
-* (June 2022) One paper accepted in MICCAI 2022.
+* (Jul 2022) One paper published in Nature Scientific Reports.
+* (Jul 2022) Two papers accepted in ECCV 2022.
+* (Jun 2022) One paper accepted in ECML 2022 (Research track).
+* (Jun 2022) One paper accepted in MICCAI 2022.
 * (May 2022) Lab's own data server is installed.
 * (May 2022) 3 new A100 (80 GB) GPUs installed.
-* (March 2022) Three papers accepted in CVPR 2022.
-* (March 2022) Group website is up.
+* (Mar 2022) Three papers accepted in CVPR 2022.
+* (Mar 2022) Group website is up.
