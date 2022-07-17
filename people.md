@@ -242,7 +242,7 @@ permalink: /people/
     name="Britty Baby"
     url="https://scholar.google.com/citations?user=w99r4LsAAAAJ&hl=en&oi=ao" 
     employment="Scientist B, AIIMS New Delhi"
-    defend="2022 (Thesis submitted)"
+    defend="(Thesis submitted)"
 %}
 </li>
 
