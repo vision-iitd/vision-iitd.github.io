@@ -207,6 +207,8 @@ permalink: /people/
 * <a href="">Shivam Garg</a>
 * <a href="">Vaibhav Soni</a>
 * <a href="">Saptarshi Dasgupta</a>
+* <a href="">Chinmay Mittal</a> (Scene Text Recognition)
+* <a href="">Tanish Tuteja</a> (Scene Text Recognition)
 
 
 # Interns/RAs
@@ -217,8 +219,6 @@ permalink: /people/
 * Kartik Nanneboina
 * Medhavi Math
 * Ashish Papanai
-* Tanish Tuteja
-* Chinmay Mittal 
 
 # External Student Collaborators
 
@@ -235,6 +235,7 @@ permalink: /people/
 
 **PhD**:  
 <ul class='people'>
+
 <li>
 {% include person.html
     src="/assets/images/bios/britty-b.png"
@@ -251,7 +252,7 @@ permalink: /people/
     name="Anupam Sobti"
     url="https://anupamsobti.github.io" 
     employment="Postdoc, Microsoft Research, India"
-    defend="2021 (Thesis submitted)"
+    defend="2022"
 %}
 </li>
 
