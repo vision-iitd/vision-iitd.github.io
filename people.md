@@ -57,7 +57,7 @@ permalink: /people/
     src="/assets/images/bios/soumen-b.png" 
     name="Soumen Basu" 
     affiliation="Prime Minister's Research Fellow"
-    url="ttps://www.cse.iitd.ac.in/~soumen"
+    url="https://www.cse.iitd.ac.in/~soumen"
     research="Deep Learning, Medical Image Analysis"
     year="2019"
 %}
