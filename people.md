@@ -21,7 +21,7 @@ permalink: /people/
     src="/assets/images/chetan.png" 
     name="Dr. Chetan Arora" 
     url="http://www.cse.iitd.ernet.in/~chetan/"
-    affiliation="Associate Professor, IIT Delhi"
+    affiliation="Professor, IIT Delhi"
     research="Computer Vision, Machine learning"
 %}
 </li>
@@ -130,11 +130,11 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/sweta-m.jpg" 
-    name="Sweta Mahajan" 
-    url="https://swet96.github.io/"
-    research="Uncertainty estimation and calibration in computer vision"
-    year="2021"
+    src="/assets/images/bios/prafful-k.jpg" 
+    name="Prafful Kumar" 
+    url="https://www.linkedin.com/in/prafful-kumar-khoba-b06434104/"
+    research="Computer Vision, Machine Learning"
+    year="2022"
 %}
 </li>
 
@@ -143,11 +143,11 @@ permalink: /people/
 # Masters Students
 <ul class='people'>
 <li>
-{% include person.html
-    src="/assets/images/bios/ashutosh-a.jpg"
-    name="Ashutosh Agarwal"
-    url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
-    research="Mobility, Fairness, Few-shot learning"
+{% include person.html 
+    src="/assets/images/bios/sweta-m.jpg" 
+    name="Sweta Mahajan" 
+    url="https://swet96.github.io/"
+    research="Uncertainty estimation and calibration in computer vision"
 %}
 </li>
 <li>
@@ -190,40 +190,40 @@ permalink: /people/
     research="Face detection "
 %}
 </li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/ajay-s.jpg"
+    name="Kshitiz Jain"
+    url="https://www.linkedin.com/in/kshitiz-jain-7a5b4a129/" 
+    research="Computer Vision, Machine Learning"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/ajay-s.jpg"
+    name="Tajamul Ashraf"
+    url="https://www.linkedin.com/in/tajamul221/" 
+    research="Computer Vision, Machine Learning"
+%}
+</li>
 </ul>
 
 # B.Tech Students
 
-* <a href="https://www.linkedin.com/in/tamajit-banerjee/">Tamajit Banerjee</a> (Computer Vision, Formal Languages and Automata Theory, Reinforcement Learning)
-* <a href="https://github.com/mustafa1728">Mustafa Chasmai</a> (Computer Vision, Machine Learning)
-* <a href="https://www.linkedin.com/in/karantanwar/">Karan Tanwar</a> (SLAM Systems and Monocular Depth Estimation)
 * <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Abdur Rahman</a> (Computer Vision, Deep Learning)
-* <a href="https://www.linkedin.com/in/abhinav-singhal-01bba91b6">Abhinav Singhal</a> (Computer Vision, Machine Learning)
-* <a href="https://www.linkedin.com/in/abhishek-kumar-a436081a4/">Abhishek Kumar</a> (Computer Vision)
-* <a href="https://www.linkedin.com/in/amangupta27/">Aman Gupta</a> (Medical Imaging, Detecting Breast Cancer)
-* <a href="">Aryan Jain</a>
-* <a href="">Shravan Manish Nawandar</a>
-* <a href="">Dhruv Kumar Gupta</a>
-* <a href="">Shivam Garg</a>
-* <a href="">Vaibhav Soni</a>
-* <a href="">Saptarshi Dasgupta</a>
+* <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Anirudha Kulkarni</a> (Computer Vision, Deep Learning)
+* <a href="">Kuriseti Ravi Sri Teja </a>
 * <a href="">Chinmay Mittal</a> (Scene Text Recognition)
-* <a href="">Tanish Tuteja</a> (Scene Text Recognition)
 
 
 # Interns/RAs
 
-* Vidya Moni  
-* Abhipal Sharma 
 * Aatif Nisar Dar
-* Kartik Nanneboina
-* Medhavi Math
-* Ashish Papanai
 
 # External Student Collaborators
 
-* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, PhD Student, IIT Mandi (Co-advisor: Chetan Arora)
-* <a href="https://pravin74.github.io/">Pravin Nagar</a>, PhD Student, IIIT Delhi (Advisor: Chetan Arora)
 * <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, PhD Student, IIIT Delhi (Co-advisor: Chetan Arora)
 
 # Staff
@@ -235,6 +235,26 @@ permalink: /people/
 
 **PhD**:  
 <ul class='people'>
+<li>
+{% include person.html
+    src="/assets/images/bios/pravin-n.jpg"
+    name="Pravin Nagar"
+    url="https://pravin74.github.io/" 
+    employment="Postdoc, University of Maryland, College Park"
+    defend="(Submitted)"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/daksh-t.jpg"
+    name="Daksh Thapar"
+    url="https://dakshthapar.github.io/" 
+    employment="Research Scientist-II, Amazon India"
+    defend="(Submitted)"
+%}
+</li>
+
 
 <li>
 {% include person.html
@@ -242,7 +262,7 @@ permalink: /people/
     name="Britty Baby"
     url="https://scholar.google.com/citations?user=w99r4LsAAAAJ&hl=en&oi=ao" 
     employment="Scientist B, AIIMS New Delhi"
-    defend="(Thesis submitted)"
+    defend="2022"
 %}
 </li>
 
@@ -251,7 +271,7 @@ permalink: /people/
     src="/assets/images/bios/anupam-s.jpg"
     name="Anupam Sobti"
     url="https://anupamsobti.github.io" 
-    employment="Postdoc, Microsoft Research, India"
+    employment="Assistant Professor, Plaksha University, India"
     defend="2022"
 %}
 </li>
@@ -288,6 +308,20 @@ permalink: /people/
 
 </ul>
 
+**Masters**:
+<ul class='people'>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/ashutosh-a.jpg"
+    name="Ashutosh Agarwal"
+    url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
+    research="Mobility, Fairness, Few-shot learning"
+%}
+</li>
+
+</ul>
+
 **B.Tech**:
 
 * <a href="https://www.linkedin.com/in/somanshu-singla-105636214/">Somanshu Singla</a> 
@@ -298,4 +332,27 @@ permalink: /people/
 * <a href="https://www.linkedin.com/in/vishnu-manogna-mukku-85b038187/">Mukku Vishnumanogna</a> 
 * <a href="https://www.linkedin.com/in/suryakalia/">Surya C. Kalia</a>
 * <a href="https://www.linkedin.com/in/arpanmangal/">Arpan Mangal</a>
+* <a href="https://www.linkedin.com/in/tamajit-banerjee/">Tamajit Banerjee</a> (Computer Vision, Formal Languages and Automata Theory, Reinforcement Learning)
+* <a href="https://github.com/mustafa1728">Mustafa Chasmai</a> (Computer Vision, Machine Learning)
+* <a href="https://www.linkedin.com/in/karantanwar/">Karan Tanwar</a> (SLAM Systems and Monocular Depth Estimation)
+* <a href="https://www.linkedin.com/in/abhinav-singhal-01bba91b6">Abhinav Singhal</a> (Computer Vision, Machine Learning)
+* <a href="https://www.linkedin.com/in/abhishek-kumar-a436081a4/">Abhishek Kumar</a> (Computer Vision)
+* <a href="https://www.linkedin.com/in/amangupta27/">Aman Gupta</a> (Medical Imaging, Detecting Breast Cancer)
+* <a href="">Aryan Jain</a>
+* <a href="">Shravan Manish Nawandar</a>
+* <a href="">Dhruv Kumar Gupta</a>
+* <a href="">Shivam Garg</a>
+* <a href="">Vaibhav Soni</a>
+* <a href="">Saptarshi Dasgupta</a>
+* <a href="">Rakshita Choudhary</a>
+* <a href="">Tanish Tuteja</a> (Scene Text Recognition)
+
  
+ **Intern/RA**:
+
+* Ashish Papanai 
+* Kartik Nanneboina
+* Medhavi Math
+* Vidya Moni  
+* Abhipal Sharma 
+

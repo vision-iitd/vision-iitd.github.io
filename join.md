@@ -11,7 +11,7 @@ permalink: /join/
 </td></tr>
 <tr><td>
 <div align="justify" class="style-paragraph"> 
-We are looking for technically strong, and committed students interested to do a PhD/ MS(R) in computer vision and machine learning. Interested students may look at our publications and project pages to get a glimpse of ongoing work. Note that, applicants must go through the official IITD admission process. 
+We are looking for technically strong, and committed students interested to do a PhD/ MS(R) in computer vision and machine learning. Interested students may look at our publications and project pages to get a glimpse of ongoing work. Note that, applicants must go through the official IITD admission process. The PhD/ MS(R) students in our group are primarily hosted by the Department of Computer Science and Engineering (CSE), School of Information Technology (SIT), and School of Artificial Intelligence (ScAI).
 </div>
 </td></tr>
 </table>
