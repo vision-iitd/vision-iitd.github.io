@@ -130,7 +130,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/prafful-k.jpg" 
+    src="/assets/images/bios/prafful-k.jpeg" 
     name="Prafful Kumar" 
     url="https://www.linkedin.com/in/prafful-kumar-khoba-b06434104/"
     research="Computer Vision, Machine Learning"
@@ -193,7 +193,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/ajay-s.jpg"
+    src="/assets/images/bios/kshitiz-j.jpg"
     name="Kshitiz Jain"
     url="https://www.linkedin.com/in/kshitiz-jain-7a5b4a129/" 
     research="Computer Vision, Machine Learning"
@@ -202,7 +202,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/ajay-s.jpg"
+    src="/assets/images/bios/tajamul-a.jpg"
     name="Tajamul Ashraf"
     url="https://www.linkedin.com/in/tajamul221/" 
     research="Computer Vision, Machine Learning"
@@ -240,7 +240,7 @@ permalink: /people/
     src="/assets/images/bios/pravin-n.jpg"
     name="Pravin Nagar"
     url="https://pravin74.github.io/" 
-    employment="Postdoc, University of Maryland, College Park"
+    employment="Postdoc, University of Maryland, CP"
     defend="(Submitted)"
 %}
 </li>
@@ -271,7 +271,7 @@ permalink: /people/
     src="/assets/images/bios/anupam-s.jpg"
     name="Anupam Sobti"
     url="https://anupamsobti.github.io" 
-    employment="Assistant Professor, Plaksha University, India"
+    employment="Postdoc, Microsoft Research, India"
     defend="2022"
 %}
 </li>
