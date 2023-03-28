@@ -130,7 +130,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/prafful-k.jpeg" 
+    src="/assets/images/bios/prafful-k.png" 
     name="Prafful Kumar" 
     url="https://www.linkedin.com/in/prafful-kumar-khoba-b06434104/"
     research="Computer Vision, Machine Learning"
@@ -193,7 +193,7 @@ permalink: /people/
 
 <li>
 {% include person.html
-    src="/assets/images/bios/kshitiz-j.jpg"
+    src="/assets/images/bios/kshitiz-j.png"
     name="Kshitiz Jain"
     url="https://www.linkedin.com/in/kshitiz-jain-7a5b4a129/" 
     research="Computer Vision, Machine Learning"
@@ -237,7 +237,7 @@ permalink: /people/
 <ul class='people'>
 <li>
 {% include person.html
-    src="/assets/images/bios/pravin-n.jpg"
+    src="/assets/images/bios/pravin-n.png"
     name="Pravin Nagar"
     url="https://pravin74.github.io/" 
     employment="Postdoc, University of Maryland, CP"
