@@ -194,7 +194,7 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/kshitiz-j.png"
-    name="Kshitiz Jain"
+    name="Kshitiz Jain "
     url="https://www.linkedin.com/in/kshitiz-jain-7a5b4a129/" 
     research="Computer Vision, Machine Learning"
 %}
@@ -203,7 +203,7 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/tajamul-a.jpg"
-    name="Tajamul Ashraf"
+    name="Tajamul Ashraf "
     url="https://www.linkedin.com/in/tajamul221/" 
     research="Computer Vision, Machine Learning"
 %}
@@ -248,7 +248,7 @@ permalink: /people/
 <li>
 {% include person.html
     src="/assets/images/bios/daksh-t.jpg"
-    name="Daksh Thapar"
+    name="Daksh Thapar "
     url="https://dakshthapar.github.io/" 
     employment="Research Scientist-II, Amazon India"
     defend="(Submitted)"
