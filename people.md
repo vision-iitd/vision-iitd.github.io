@@ -217,8 +217,67 @@ permalink: /people/
 * <a href="">Kuriseti Ravi Sri Teja </a>
 * <a href="">Chinmay Mittal</a> (Scene Text Recognition)
 
+# Research Assistants
 
-# Interns/RAs
+<ul class='people'>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Mayuna-Gupta.jpeg" 
+    name="Mayuna Gupta" 
+    url="https://www.linkedin.com/in/mayuna-gupta/"
+    research="Medical Imaging, Cancer Detection"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Nishit-Anand.jpeg" 
+    name="Nishit Anand" 
+    url="https://www.linkedin.com/in/nishitanand/"
+    research="Document & Scene-Text OCR, Active Learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Mrinal.jpeg" 
+    name="Mrinal" 
+    url=""
+    research=""
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
+    name="Jayesh Chaudhari" 
+    url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
+    research=""
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Kartik-Anand.jpeg" 
+    name="Kartik Anand" 
+    url="https://www.linkedin.com/in/kartik-anand-6abb94192"
+    research=""
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Abhilaksh.jpeg" 
+    name="Abhilaksh Singh Reen" 
+    url=""
+    research=""
+%}
+</li>
+
+</ul>
+
+# Interns
 
 * Aatif Nisar Dar
 
