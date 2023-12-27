@@ -187,7 +187,7 @@ permalink: /people/
     src="/assets/images/bios/ajay-s.jpg"
     name="K.N. Ajay Shastry"
     url="https://www.linkedin.com/in/k-n-ajay-shastry-b48982158/" 
-    research="Face detection "
+    research="Pedestrian Detection"
 %}
 </li>
 
