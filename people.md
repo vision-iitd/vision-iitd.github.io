@@ -262,7 +262,7 @@ permalink: /people/
     src="/assets/images/bios/Kartik-Anand.jpeg" 
     name="Kartik Anand" 
     url="https://www.linkedin.com/in/kartik-anand-6abb94192"
-    research=""
+    research="Uncertainty estimation and calibration in computer vision"
 %}
 </li>
 
