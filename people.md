@@ -38,6 +38,20 @@ permalink: /people/
 * <a href="https://vinaypn.github.io/">Vinay P. Namboodiri</a>, Faculty member, University of Bath, UK
 * <a href="https://www.cs.huji.ac.il/~peleg/">Shmuel Peleg</a>, Professor, Hebrew University of Jerusalem, Israel
 
+**PostDocs**:
+<ul class='people'>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/arpan-g.jpg"
+    name="Dr. Arpan Garai"
+    url=""
+    research="Optical Character Recognition"
+%}
+</li>
+
+</ul>
+
 # PhD Students
 
 <ul class='people'>
@@ -219,7 +233,7 @@ permalink: /people/
     src="/assets/images/bios/kaustubh-b.jpg" 
     name="Kaustubh R Borgavi" 
     url="https://in.linkedin.com/in/kaustubh-r-borgavi-436855194"
-    research=""
+    research="MAVI: Mobility Assistant for the Visually impaired"
 %}
 </li>
 
@@ -276,7 +290,7 @@ permalink: /people/
     src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
     name="Jayesh Chaudhari" 
     url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
-    research=""
+    research="Object Detection, Gait Recognition"
 %}
 </li>
 
@@ -399,6 +413,20 @@ permalink: /people/
     name="Ashutosh Agarwal"
     url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
     research="Mobility, Fairness, Few-shot learning"
+%}
+</li>
+
+</ul>
+
+**Research Assistants**:
+<ul class='people'>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/aatif.jpg"
+    name="Aatif Nisar Dar"
+    url="https://aatifnisar01.github.io/"
+    research="Assessing the Feasibility and Ethics of Household Economic Status Prediction using Deep Learning on Images"
 %}
 </li>
 
