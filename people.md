@@ -122,17 +122,6 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/siddharth-s.jpg" 
-    name="Siddharth Shrivastava" 
-    affiliation="Prime Minister's Research Fellow"
-    url="https://www.linkedin.com/in/siddharth-shrivastava-/"
-    research="Deep Learning, Computer Vision, Autonomous Driving"
-    year="2020"
-%}
-</li>
-
-<li>
-{% include person.html 
     src="/assets/images/bios/pankaj-g.jfif" 
     name="Dr. Pankaj Gupta"
     affiliation="Associate Professor, PGIMER, Chandigarh"
@@ -241,10 +230,22 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/shashank-v.jpg" 
     name="Shashank K. Vempati" 
-    url=""
+    url="http://linkedin.com/in/shashank-krishna-vempati"
     research="Optical Character Recognition"
 %}
 </li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/siddharth-s.jpg" 
+    name="Siddharth Shrivastava" 
+<!--     affiliation="Prime Minister's Research Fellow" -->
+    url="https://www.linkedin.com/in/siddharth-shrivastava-/"
+    research="Deep Learning, Computer Vision, Autonomous Driving"
+<!--     year="2020" -->
+%}
+</li>
+
 </ul>
 
 # B.Tech Students
