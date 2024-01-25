@@ -38,7 +38,7 @@ permalink: /people/
 * <a href="https://vinaypn.github.io/">Vinay P. Namboodiri</a>, Faculty member, University of Bath, UK
 * <a href="https://www.cs.huji.ac.il/~peleg/">Shmuel Peleg</a>, Professor, Hebrew University of Jerusalem, Israel
 
-**PostDocs**:
+# PostDocs
 <ul class='people'>
 
 <li>
