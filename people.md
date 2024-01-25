@@ -150,6 +150,7 @@ permalink: /people/
     research="Uncertainty estimation and calibration in computer vision"
 %}
 </li>
+  
 <li>
 {% include person.html
     src="/assets/images/bios/mayank-g.jpg"
@@ -158,6 +159,7 @@ permalink: /people/
     research="Medical Imaging, Cancer Detection"
 %}
 </li>
+
 <li>
 {% include person.html
     src="/assets/images/bios/devesh-p.png"
@@ -166,6 +168,7 @@ permalink: /people/
     research="Document/ Scene text OCR"
 %}
 </li>
+
 <li>
 {% include person.html
     src="/assets/images/bios/kunal-d.jpg"
@@ -174,6 +177,7 @@ permalink: /people/
     research="Video Object Segmentation and Tracking, Medical Imaging"
 %}
 </li>
+
 <li>
 {% include person.html
     src="/assets/images/bios/suraj-p.jpg"
@@ -182,6 +186,7 @@ permalink: /people/
     research="SLAM for Visual Navigation, 3D Reconstruction"
 %}
 </li>
+
 <li>
 {% include person.html
     src="/assets/images/bios/ajay-s.jpg"
@@ -206,6 +211,24 @@ permalink: /people/
     name="Tajamul Ashraf "
     url="https://www.linkedin.com/in/tajamul221/" 
     research="Computer Vision, Machine Learning"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/kaustubh-b.jpg" 
+    name="Kaustubh R Borgavi" 
+    url="https://in.linkedin.com/in/kaustubh-r-borgavi-436855194"
+    research=""
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/shashank-v.jpg" 
+    name="Shashank K. Vempati" 
+    url=""
+    research="Optical Character Recognition"
 %}
 </li>
 </ul>
@@ -270,8 +293,8 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/Abhilaksh.jpeg" 
     name="Abhilaksh Singh Reen" 
-    url=""
-    research=""
+    url="https://www.linkedin.com/in/abhilaksh-singh-837901210"
+    research="OCR in Indian Languages, Interactive Machine Learning on Medical images"
 %}
 </li>
 
