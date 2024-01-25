@@ -317,6 +317,7 @@ permalink: /people/
 # Interns
 
 * Aatif Nisar Dar
+* <a href="">Hardik Soni</a>, BS-MS Dual Degree Student, IISER Bhopal (Co-advisor: Chetan Arora)
 
 # External Student Collaborators
 
