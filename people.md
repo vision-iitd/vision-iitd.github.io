@@ -239,10 +239,8 @@ permalink: /people/
 {% include person.html 
     src="/assets/images/bios/siddharth-s.jpg" 
     name="Siddharth Shrivastava" 
-    # affiliation="Prime Minister's Research Fellow"
     url="https://www.linkedin.com/in/siddharth-shrivastava-/"
     research="Deep Learning, Computer Vision, Autonomous Driving"
-    # year="2020"
 %}
 </li>
 
