@@ -277,7 +277,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/Mrinal.jpeg" 
+    src="/assets/images/bios/white.png" 
     name="Mrinal" 
     url=""
     research=""
