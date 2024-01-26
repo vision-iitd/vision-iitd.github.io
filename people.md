@@ -45,7 +45,7 @@ permalink: /people/
 {% include person.html
     src="/assets/images/bios/arpan-g.jpg"
     name="Dr. Arpan Garai"
-    url=""
+    url="https://in.linkedin.com/in/arpan-garai-6a97036a"
     research="Optical Character Recognition"
 %}
 </li>
