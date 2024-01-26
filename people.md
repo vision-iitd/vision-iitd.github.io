@@ -304,7 +304,7 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/Abhilaksh.jpeg" 
+    src="/assets/images/bios/Abhilaksh.jpg" 
     name="Abhilaksh Singh Reen" 
     url="https://www.linkedin.com/in/abhilaksh-singh-837901210"
     research="OCR in Indian Languages, Interactive Machine Learning on Medical images"
@@ -315,7 +315,6 @@ permalink: /people/
 
 # Interns
 
-* Aatif Nisar Dar
 * <a href="">Hardik Soni</a>, BS-MS Dual Degree Student, IISER Bhopal (Co-advisor: Chetan Arora)
 
 # External Student Collaborators
