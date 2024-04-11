@@ -38,19 +38,6 @@ permalink: /people/
 * <a href="https://vinaypn.github.io/">Vinay P. Namboodiri</a>, Faculty member, University of Bath, UK
 * <a href="https://www.cs.huji.ac.il/~peleg/">Shmuel Peleg</a>, Professor, Hebrew University of Jerusalem, Israel
 
-# PostDocs
-<ul class='people'>
-
-<li>
-{% include person.html
-    src="/assets/images/bios/arpan-g.jpg"
-    name="Dr. Arpan Garai"
-    url="https://in.linkedin.com/in/arpan-garai-6a97036a"
-    research="Optical Character Recognition"
-%}
-</li>
-
-</ul>
 
 # PhD Students
 
@@ -62,17 +49,6 @@ permalink: /people/
     name="Ankita Raj" 
     url="https://www.cse.iitd.ac.in/~ankita/"
     research="Trustworthy ML, Privacy and Security in Computer Vision"
-    year="2019"
-%}
-</li>
-
-<li>
-{% include person.html 
-    src="/assets/images/bios/soumen-b.png" 
-    name="Soumen Basu" 
-    affiliation="Prime Minister's Research Fellow"
-    url="https://www.cse.iitd.ac.in/~soumen"
-    research="Deep Learning, Medical Image Analysis"
     year="2019"
 %}
 </li>
@@ -153,24 +129,6 @@ permalink: /people/
     research="Uncertainty estimation and calibration in computer vision"
 %}
 </li>
-  
-<li>
-{% include person.html
-    src="/assets/images/bios/mayank-g.jpg"
-    name="Mayank Gupta"
-    url="https://scholar.google.com/citations?user=GQC1floAAAAJ&hl=en" 
-    research="Medical Imaging, Cancer Detection"
-%}
-</li>
-
-<li>
-{% include person.html
-    src="/assets/images/bios/devesh-p.png"
-    name="Devesh Pant"
-    url="https://www.linkedin.com/in/pantdevesh/" 
-    research="Document/ Scene text OCR"
-%}
-</li>
 
 <li>
 {% include person.html
@@ -248,10 +206,7 @@ permalink: /people/
 
 # B.Tech Students
 
-* <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Abdur Rahman</a> (Computer Vision, Deep Learning)
-* <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Anirudha Kulkarni</a> (Computer Vision, Deep Learning)
-* <a href="">Kuriseti Ravi Sri Teja </a>
-* <a href="">Chinmay Mittal</a> (Scene Text Recognition)
+
 
 # Research Assistants
 
@@ -328,8 +283,31 @@ permalink: /people/
 
 # Alumni
 
+**PostDocs**: 
+<ul class='people'>
+<li>
+{% include person.html
+    src="/assets/images/bios/arpan-g.jpg"
+    name="Dr. Arpan Garai"
+    url="https://in.linkedin.com/in/arpan-garai-6a97036a"
+    employment="Assistant Professor, Vellore Institute of Technology, Vellore, India"
+%}
+</li>
+</ul>
+
 **PhD**:  
 <ul class='people'>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/soumen-b.png" 
+    name="Soumen Basu" 
+    url="https://www.cse.iitd.ac.in/~soumen"
+    employment="Senior Chief Engineer, Samsung Research Bangalore"
+    defend="(Submitted)"
+%}
+</li>
+
 <li>
 {% include person.html
     src="/assets/images/bios/pravin-n.png"
@@ -408,6 +386,24 @@ permalink: /people/
 
 <li>
 {% include person.html
+    src="/assets/images/bios/mayank-g.jpg"
+    name="Mayank Gupta"
+    url="https://scholar.google.com/citations?user=GQC1floAAAAJ&hl=en" 
+    research="Medical Imaging, Cancer Detection"
+%}
+</li>
+
+<li>
+{% include person.html
+    src="/assets/images/bios/devesh-p.png"
+    name="Devesh Pant"
+    url="https://www.linkedin.com/in/pantdevesh/" 
+    research="Document/ Scene text OCR"
+%}
+</li>
+
+<li>
+{% include person.html
     src="/assets/images/bios/ashutosh-a.jpg"
     name="Ashutosh Agarwal"
     url="https://scholar.google.com/citations?hl=en&user=jlqrp8oAAAAJ"
@@ -432,7 +428,10 @@ permalink: /people/
 </ul>
 
 **B.Tech**:
-
+* <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Abdur Rahman</a> (Computer Vision, Deep Learning)
+* <a href="https://www.linkedin.com/in/abdur-rahman-0b84341a0/">Anirudha Kulkarni</a> (Computer Vision, Deep Learning)
+* <a href="">Kuriseti Ravi Sri Teja </a>
+* <a href="">Chinmay Mittal</a> (Scene Text Recognition)
 * <a href="https://www.linkedin.com/in/somanshu-singla-105636214/">Somanshu Singla</a> 
 * <a href="https://www.linkedin.com/in/jatinprakash1511/">Jatin Prakash</a>
 * <a href="https://www.linkedin.com/in/neelabh-madan/">Neelabh Madan</a>
