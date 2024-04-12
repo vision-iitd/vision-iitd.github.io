@@ -110,9 +110,9 @@ permalink: /people/
 <li>
 {% include person.html 
     src="/assets/images/bios/prafful-k.png" 
-    name="Prafful Kumar" 
+    name="Prafful Kumar Khoba" 
     url="https://www.linkedin.com/in/prafful-kumar-khoba-b06434104/"
-    research="Computer Vision, Machine Learning"
+    research="Revisiting assumptions and evaluation metrics in domain generalization"
     year="2022"
 %}
 </li>
@@ -195,6 +195,15 @@ permalink: /people/
 
 <li>
 {% include person.html 
+    src="/assets/images/bios/aradhye-a.jpg" 
+    name="Aradhye Agarwal" 
+    url="https://www.linkedin.com/in/aradhye-agarwal-a545a4218/"
+    research="Depth Estimation"
+%}
+</li>
+
+<li>
+{% include person.html 
     src="/assets/images/bios/siddharth-s.jpg" 
     name="Siddharth Shrivastava" 
     url="https://www.linkedin.com/in/siddharth-shrivastava-/"
@@ -232,10 +241,10 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/white.png" 
-    name="Mrinal" 
-    url=""
-    research=""
+    src="/assets/images/bios/mrinal-t.jpg" 
+    name="Mrinal Tyagi" 
+    url="https://www.linkedin.com/in/mrinal-tyagi-02a1351b1/"
+    research="Medical Imaging, Computer Vision"
 %}
 </li>
 
