@@ -24,9 +24,16 @@ We have access to the latest Nvidia V100 (32 GB) and A100 (40GB, 80GB) GPUs, and
 <br>
 
 # News
+* 03/2024 Two papers accepted in CVPR 2024!
+* 01/2024 Six papers published in WACV 2024!
+* 10/2023 Two papers published in ICIP 2023!
+* 08/2023 One paper published in ICDAR 2023!
+* 06/2023 Three papers accepted in MICCAI 2023!
+* 06/2023 One paper published in IEEE Transactions on Pattern Analysis (TPAMI) 2023!
+* 01/2023 One paper published in Elsevier Pattern Recognition!
 * 01/2023 One paper published in Elsevier Medical Analysis (IF: 13.828)!
 * 01/2023 Three papers published in WACV 2023!
-* 10/2023 Two papers published in ICIP 2022!
+* 10/2022 Two papers published in ICIP 2022!
 * 07/2022 One paper published in Nature Scientific Reports (IF: 4.996)!
 * 07/2022 Two papers accepted in ECCV 2022!
 * 06/2022 One paper accepted in ECML 2022 (Research track)!

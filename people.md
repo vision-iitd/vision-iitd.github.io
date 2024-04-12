@@ -269,8 +269,29 @@ permalink: /people/
 </ul>
 
 # Interns
+<ul class='people'>
 
-* <a href="">Hardik Soni</a>, BS-MS Dual Degree Student, IISER Bhopal (Co-advisor: Chetan Arora)
+<li>
+{% include person.html 
+    src="/assets/images/bios/anureet-c.jpg" 
+    name="Anureet Chhabra" 
+    url="https://www.linkedin.com/in/anureet-chhabra-bb86271bb/"
+    research="SLAM for Visual Navigation"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/hardik-s.jpg" 
+    name="Hardik Soni" 
+    url="https://www.linkedin.com/in/hardiksoni16/"
+    research="Optical Character Recognition, Text Detection"
+%}
+</li>
+
+
+</ul>
+
 
 # External Student Collaborators
 
