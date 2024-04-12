@@ -223,10 +223,10 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/Mayuna-Gupta.jpeg" 
-    name="Mayuna Gupta" 
-    url="https://www.linkedin.com/in/mayuna-gupta/"
-    research="Medical Imaging, Cancer Detection"
+    src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
+    name="Jayesh Chaudhari" 
+    url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
+    research="Object Detection, Gait Recognition"
 %}
 </li>
 
@@ -245,15 +245,6 @@ permalink: /people/
     name="Mrinal Tyagi" 
     url="https://www.linkedin.com/in/mrinal-tyagi-02a1351b1/"
     research="Medical Imaging, Computer Vision"
-%}
-</li>
-
-<li>
-{% include person.html 
-    src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
-    name="Jayesh Chaudhari" 
-    url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
-    research="Object Detection, Gait Recognition"
 %}
 </li>
 
@@ -452,6 +443,15 @@ permalink: /people/
     name="Aatif Nisar Dar"
     url="https://aatifnisar01.github.io/"
     research="Assessing the Feasibility and Ethics of Household Economic Status Prediction using Deep Learning on Images"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Mayuna-Gupta.jpeg" 
+    name="Mayuna Gupta" 
+    url="https://www.linkedin.com/in/mayuna-gupta/"
+    research="Medical Imaging, Cancer Detection"
 %}
 </li>
 
