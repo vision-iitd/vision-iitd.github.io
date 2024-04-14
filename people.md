@@ -317,15 +317,6 @@ permalink: /people/
 **PhD**:  
 <ul class='people'>
 
-<!-- <li>
-{% include person.html 
-    src="/assets/images/bios/soumen-b.png" 
-    name="Soumen Basu" 
-    url="https://www.cse.iitd.ac.in/~soumen"
-    employment="Senior Chief Engineer, Samsung Research Bangalore"
-    defend="(Submitted)"
-%}
-</li> -->
 
 <li>
 {% include person.html
@@ -336,16 +327,6 @@ permalink: /people/
     defend="2022"
 %}
 </li>
-
-<!-- <li>
-{% include person.html
-    src="/assets/images/bios/daksh-t.jpg"
-    name="Daksh Thapar "
-    url="https://dakshthapar.github.io/" 
-    employment="Research Scientist-II, Amazon India"
-    defend="(Submitted)"
-%}
-</li> -->
 
 
 <li>
