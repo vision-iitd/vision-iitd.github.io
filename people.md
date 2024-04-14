@@ -55,6 +55,17 @@ permalink: /people/
 
 <li>
 {% include person.html 
+    src="/assets/images/bios/soumen-b.png" 
+    name="Soumen Basu" 
+    affiliation="Prime Minister's Research Fellow"
+    url="https://www.cse.iitd.ac.in/~soumen"
+    research="Deep Learning, Medical Image Analysis"
+    year="2019"
+%}
+</li>
+
+<li>
+{% include person.html 
     src="/assets/images/bios/krithika-r.jfif" 
     name="Dr. Krithika Rangarajan"
     affiliation="Associate Professor, AIIMS, New Delhi"
@@ -121,14 +132,6 @@ permalink: /people/
 
 # Masters Students
 <ul class='people'>
-<li>
-{% include person.html 
-    src="/assets/images/bios/sweta-m.jpg" 
-    name="Sweta Mahajan" 
-    url="https://swet96.github.io/"
-    research="Uncertainty estimation and calibration in computer vision"
-%}
-</li>
 
 <li>
 {% include person.html
@@ -193,6 +196,12 @@ permalink: /people/
 %}
 </li>
 
+</ul>
+
+# B.Tech Students
+
+<ul class='people'>
+
 <li>
 {% include person.html 
     src="/assets/images/bios/aradhye-a.jpg" 
@@ -202,20 +211,7 @@ permalink: /people/
 %}
 </li>
 
-<li>
-{% include person.html 
-    src="/assets/images/bios/siddharth-s.jpg" 
-    name="Siddharth Shrivastava" 
-    url="https://www.linkedin.com/in/siddharth-shrivastava-/"
-    research="Deep Learning, Computer Vision, Autonomous Driving"
-%}
-</li>
-
 </ul>
-
-# B.Tech Students
-
-
 
 # Research Assistants
 
@@ -296,6 +292,8 @@ permalink: /people/
 # External Student Collaborators
 
 * <a href="https://sharat29ag.github.io/">Sharat Agarwal</a>, PhD Student, IIIT Delhi (Co-advisor: Chetan Arora)
+* <a href="https://dakshthapar.github.io/">Daksh Thapar</a>, PhD Student, IIT Mandi (Co-advisor: Chetan Arora)
+
 
 # Staff
 
@@ -319,7 +317,7 @@ permalink: /people/
 **PhD**:  
 <ul class='people'>
 
-<li>
+<!-- <li>
 {% include person.html 
     src="/assets/images/bios/soumen-b.png" 
     name="Soumen Basu" 
@@ -327,7 +325,7 @@ permalink: /people/
     employment="Senior Chief Engineer, Samsung Research Bangalore"
     defend="(Submitted)"
 %}
-</li>
+</li> -->
 
 <li>
 {% include person.html
@@ -335,11 +333,11 @@ permalink: /people/
     name="Pravin Nagar"
     url="https://pravin74.github.io/" 
     employment="Postdoc, University of Maryland, CP"
-    defend="(Submitted)"
+    defend="2022"
 %}
 </li>
 
-<li>
+<!-- <li>
 {% include person.html
     src="/assets/images/bios/daksh-t.jpg"
     name="Daksh Thapar "
@@ -347,7 +345,7 @@ permalink: /people/
     employment="Research Scientist-II, Amazon India"
     defend="(Submitted)"
 %}
-</li>
+</li> -->
 
 
 <li>
