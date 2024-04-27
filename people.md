@@ -60,7 +60,8 @@ permalink: /people/
     affiliation="Prime Minister's Research Fellow"
     url="https://www.cse.iitd.ac.in/~soumen"
     research="Deep Learning, Medical Image Analysis"
-    year="2019"
+    year="2019 (Thesis Submitted, Feb 2024)" 
+    
 %}
 </li>
 
