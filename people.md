@@ -148,7 +148,7 @@ permalink: /people/
     src="/assets/images/bios/suraj-p.jpg"
     name="Suraj Patni"
     url="https://www.linkedin.com/in/suraj-patni" 
-    research="SLAM for Visual Navigation, 3D Reconstruction"
+    research="Visual SLAM, Monocular Depth Estimation"
 %}
 </li>
 
@@ -260,6 +260,15 @@ permalink: /people/
     name="Abhilaksh Singh Reen" 
     url="https://www.linkedin.com/in/abhilaksh-singh-837901210"
     research="OCR in Indian Languages, Interactive Machine Learning on Medical images"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/chetan-m.jpg" 
+    name="Chetan Madan" 
+    url="https://www.linkedin.com/in/chetan-madan/"
+    research="Medical Imaging, Cancer Detection"
 %}
 </li>
 
