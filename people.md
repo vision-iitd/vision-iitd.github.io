@@ -129,6 +129,16 @@ permalink: /people/
 %}
 </li>
 
+<li>
+{% include person.html 
+    src="/assets/images/bios/kaustubh-b.jpg" 
+    name="Kaustubh R Borgavi" 
+    url="https://in.linkedin.com/in/kaustubh-r-borgavi-436855194"
+    research="MAVI: Mobility Assistant for the Visually impaired"
+    year="2024"
+%}
+</li>
+
 </ul>
 
 # Masters Students
@@ -181,15 +191,6 @@ permalink: /people/
 
 <li>
 {% include person.html 
-    src="/assets/images/bios/kaustubh-b.jpg" 
-    name="Kaustubh R Borgavi" 
-    url="https://in.linkedin.com/in/kaustubh-r-borgavi-436855194"
-    research="MAVI: Mobility Assistant for the Visually impaired"
-%}
-</li>
-
-<li>
-{% include person.html 
     src="/assets/images/bios/shashank-v.jpg" 
     name="Shashank K. Vempati" 
     url="http://linkedin.com/in/shashank-krishna-vempati"
@@ -217,24 +218,6 @@ permalink: /people/
 # Research Assistants
 
 <ul class='people'>
-
-<li>
-{% include person.html 
-    src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
-    name="Jayesh Chaudhari" 
-    url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
-    research="Object Detection, Gait Recognition"
-%}
-</li>
-
-<li>
-{% include person.html 
-    src="/assets/images/bios/Nishit-Anand.jpeg" 
-    name="Nishit Anand" 
-    url="https://www.linkedin.com/in/nishitanand/"
-    research="Document & Scene-Text OCR, Active Learning"
-%}
-</li>
 
 <li>
 {% include person.html 
@@ -443,6 +426,25 @@ permalink: /people/
     research="Medical Imaging, Cancer Detection"
 %}
 </li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Jayesh-Chaudhari.jpeg" 
+    name="Jayesh Chaudhari" 
+    url="https://www.linkedin.com/in/jayesh-chaudhari-a2b804193"
+    research="Object Detection, Gait Recognition"
+%}
+</li>
+
+<li>
+{% include person.html 
+    src="/assets/images/bios/Nishit-Anand.jpeg" 
+    name="Nishit Anand" 
+    url="https://www.linkedin.com/in/nishitanand/"
+    research="Document & Scene-Text OCR, Active Learning"
+%}
+</li>
+
 
 </ul>
 
