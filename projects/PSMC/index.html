@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Primary Meta Tags -->
+  <meta name="title" content="Train Together: Towards Multilingual OCR Models for Low-Resource Languages">
+  <meta name="description" content="PSMC: a data-efficient framework for multilingual OCR that achieves ~13% relative WER reduction across 10 Indian scripts by merging language-specific experts via task arithmetic.">
+  <meta name="keywords" content="OCR, multilingual, low-resource languages, Indian scripts, task arithmetic, model merging, vision-language models">
+  <meta name="author" content="Achyuth P, Kahaan Shah, Chetan Arora">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="English">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Computer Vision Group, IIT Delhi">
+  <meta property="og:title" content="Train Together: Towards Multilingual OCR Models for Low-Resource Languages">
+  <meta property="og:description" content="PSMC: a data-efficient framework for multilingual OCR that achieves ~13% relative WER reduction across 10 Indian scripts by merging language-specific experts via task arithmetic.">
+  <meta property="og:url" content="https://vision-iitd.github.io/projects/PSMC/">
+  <meta property="article:published_time" content="2026-01-01T00:00:00.000Z">
+  <meta property="article:author" content="Achyuth P">
+  <meta property="article:section" content="Research">
+  <meta property="article:tag" content="OCR">
+  <meta property="article:tag" content="multilingual">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Train Together: Towards Multilingual OCR Models for Low-Resource Languages">
+  <meta name="twitter:description" content="PSMC: a data-efficient framework for multilingual OCR that achieves ~13% relative WER reduction across 10 Indian scripts by merging language-specific experts via task arithmetic.">
+
+  <!-- Academic/Research Specific -->
+  <meta name="citation_title" content="Train Together: Towards Multilingual OCR Models for Low-Resource Languages">
+  <meta name="citation_author" content="P, Achyuth">
+  <meta name="citation_author" content="Shah, Kahaan">
+  <meta name="citation_author" content="Arora, Chetan">
+  <meta name="citation_publication_date" content="2026">
+  <meta name="citation_conference_title" content="ICDAR 2026">
+
+  <!-- Additional SEO -->
+  <meta name="theme-color" content="#2563eb">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://ajax.googleapis.com">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net">
+
+  <title>PSMC | ICDAR 2026</title>
+
+  <link rel="icon" type="image/x-icon" href="assets/Lipikar logo.png">
+  <link rel="apple-touch-icon" href="assets/Lipikar logo.png">
+
+  <!-- Critical CSS -->
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <!-- Non-critical CSS -->
+  <link rel="preload" href="static/css/fontawesome.all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  </noscript>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Lora:wght@700;800&family=Roboto+Condensed:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <script defer src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script defer src="static/js/index.js"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ScholarlyArticle",
+    "headline": "Train Together: Towards Multilingual OCR Models for Low-Resource Languages",
+    "description": "PSMC: a data-efficient framework for multilingual OCR that achieves ~13% relative WER reduction across 10 Indian scripts by merging language-specific experts via task arithmetic.",
+    "author": [
+      { "@type": "Person", "name": "Achyuth P", "affiliation": { "@type": "Organization", "name": "IIT Delhi" } },
+      { "@type": "Person", "name": "Kahaan Shah", "affiliation": { "@type": "Organization", "name": "IIT Delhi" } },
+      { "@type": "Person", "name": "Chetan Arora", "affiliation": { "@type": "Organization", "name": "IIT Delhi" } }
+    ],
+    "datePublished": "",
+    "publisher": { "@type": "Organization", "name": "ICDAR 2026" },
+    "url": "https://vision-iitd.github.io/projects/PSMC/",
+    "keywords": ["OCR", "multilingual", "low-resource languages", "Indian scripts", "task arithmetic"],
+    "isAccessibleForFree": true
+  }
+  </script>
+</head>
+<body>
+
+  <button class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top" aria-label="Scroll to top">
+    <i class="fas fa-chevron-up"></i>
+  </button>
+
+<main id="main-content">
+  <section class="hero">
+    <div class="hero-body" style="padding-bottom: 1%;">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Train Together: Towards Multilingual OCR Models for Low-Resource Languages</h1>
+            <div class="logo-block">
+              <img src="assets/ICDAR 2026 Blocks Cut Traced Transparent.png" alt="ICDAR 2026">
+              <div class="logo-divider"></div>
+              <img src="assets/Lipikar logo.png" alt="Lipikar">
+            </div>
+            <div class="is-size-5 publication-authors">
+              <span class="author-block">
+                <a href="#" target="_blank">Achyuth P</a><sup>*</sup>,</span>
+              <span class="author-block">
+                <a href="#" target="_blank">Kahaan Shah</a><sup>*</sup>,</span>
+              <span class="author-block">
+                <a href="#" target="_blank">Chetan Arora</a></span>
+            </div>
+
+            <div class="is-size-5 publication-institution">
+              <span><a href="https://vision-iitd.github.io/" class="institution-name">Computer Vision Group, Indian Institute of Technology, Delhi</a></span>
+            </div>
+
+            <div class="column has-text-centered">
+              <div class="publication-links">
+                <span class="link-block">
+                  <a href="coming-soon.html"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+
+              <span class="link-block">
+                <a href="coming-soon.html"
+                class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" style="width:1em;height:1em;vertical-align:-0.125em;fill:currentColor"><path d="M318.8 72.2C448.8 72.2 554.2 178 554.2 308.5C554.2 326.2 552.3 343.5 548.6 360.2C547.2 366.7 545.5 373 543.5 379.3C550 378.7 556.5 379.9 562.2 382.8C574.8 389.3 582.4 404.5 580.4 418.5C579.7 423.4 578 427.9 575.6 432C580.8 436.2 584.6 442.1 586.4 449.1C587.8 454.6 589.3 466.2 581.6 478C587.4 487.2 588.2 498.6 583.8 508.6C577.6 522.7 562.1 533.9 532.1 545.9C499.6 558.9 465 567.8 429.8 567.8C397.8 567.8 373.9 558.9 358.8 541.4C345.8 543.6 332.5 544.8 318.8 544.8C306.1 544.8 293.6 543.8 281.5 541.9C266.4 559.1 242.7 567.8 210.9 567.8C175.8 567.8 140.9 558.8 108.5 545.9C78.5 533.9 63 522.8 56.8 508.6C52.4 498.7 53.2 487.2 59 478C51.3 466.1 52.7 454.6 54.2 449.1C56 442.1 59.9 436.2 65 432C62.5 427.9 60.9 423.4 60.2 418.5C58.7 408.1 62.2 397.8 69.9 389.3C76 382.6 85 379 94.1 379.1C92.2 373 90.5 366.7 89.1 360.4C85.4 343.7 83.4 326.4 83.4 308.6C83.4 178.1 188.8 72.3 318.8 72.3zM149.5 375C136.5 366.8 127.4 371.4 130.5 388.4C133.6 405.4 187.7 446.6 182.5 455.6C177.3 464.4 159 445.5 158.7 445.1C158.7 445.1 100.5 392 87.9 405.8C75.3 419.6 97.5 431.2 129.2 450.5C160.9 469.8 163.4 474.9 158.9 482.2C154.4 489.5 84.4 430.2 77.8 455.4C71.3 480.5 149.2 487.8 144.5 505.2C139.7 522.6 89.6 472.4 79.3 491.9C69 511.5 150.1 534.5 150.7 534.6C176.9 541.4 243.3 555.9 266.6 521.7C283.3 497.1 282.2 478.6 259.2 455.6C236.2 432.6 222.9 398.9 222.9 398.9C222.9 398.7 217.9 379.4 206.6 381.1C195.2 382.9 186.9 412.1 210.7 430C234.5 447.9 206 460 196.8 443.3C187.6 426.5 162.6 383.4 149.7 375.1zM510.1 388.4C513.2 371.4 504 366.8 491.1 375C478.1 383.3 453.2 426.4 444 443.2C434.8 460 406.3 447.8 430.1 429.9C453.9 412 445.5 382.8 434.2 381C422.9 379.2 417.9 398.8 417.9 398.8C417.8 399 404.5 432.5 381.6 455.5C358.7 478.5 357.5 497 374.2 521.6C397.4 555.8 463.9 541.3 490.1 534.5C491.6 534.1 571.7 511.2 561.5 491.8C551.2 472.3 501.1 522.4 496.2 505.1C491.4 487.8 569.4 480.5 562.9 455.3C556.3 430.2 486.3 489.4 481.8 482.1C477.3 474.8 479.8 469.7 511.5 450.4C543.2 431.1 565.5 419.5 552.8 405.7C540.1 391.9 482 445 482 445C481.6 445.4 463.4 464.3 458.2 455.5C452.9 446.6 507.1 405.4 510.2 388.3zM318.8 96.6C202.2 96.6 107.7 191.5 107.7 308.5C107.7 325.6 109.7 342.3 113.5 358.2C113.5 358.1 113.6 358.1 113.7 358C119.8 350.6 128.6 346.6 138.4 346.6C156.1 346.6 169.5 358.5 179.9 371.5C186.7 362.1 197 356.5 207.8 356.5C228.5 356.5 241 374.6 245.7 390.8C248 396.3 259.3 421.3 276.1 438.2C301.8 464 308.3 490.6 295.5 519.1C311.5 520.9 328.3 520.8 344.7 518.8C332.2 490.4 338.7 463.9 364.3 438.2C381.2 421.3 392.4 396.3 394.8 390.8C399.5 374.6 412 356.5 432.7 356.5C443.6 356.5 453.9 362.1 460.6 371.5C471 358.5 484.4 346.6 502.1 346.6C510.8 346.6 518.7 349.7 524.6 355.5C529.6 333.5 531 309.7 528.7 286.8C517.9 179.9 428 96.5 318.7 96.5zM320.3 330.8C363.9 330.8 399.3 288.8 399.3 316.3C399.3 343.7 380.1 397.2 320.5 397.2C301.3 397.2 286.3 391.7 274.7 383.3C251.5 363.9 241.3 335.1 241.3 316.4C241.3 289 276.7 330.9 320.3 330.9zM307 355.8C298.8 358.2 291.5 362.6 285.5 368.4C307.5 381.2 335.9 381.3 357.2 367.1C351.7 362.2 345.2 358.4 338.1 356.1C333 354.5 327.7 371.9 322.1 371.9C316.9 371.9 311.8 354.3 307 355.7zM179.1 279.5C168.2 279.5 159.3 270.6 159.3 259.7C159.3 248.8 168.2 239.9 179.1 239.9C190 239.9 198.9 248.8 198.9 259.7C198.9 270.6 190 279.5 179.1 279.5zM461.5 279.5C450.6 279.5 441.7 270.6 441.7 259.7C441.7 248.8 450.6 239.9 461.5 239.9C472.4 239.9 481.3 248.8 481.3 259.7C481.3 270.6 472.4 279.5 461.5 279.5zM217.5 224.1C225.4 209.2 243.8 203.6 258.6 211.5C273.4 219.4 279 237.9 271.2 252.7C267.5 259.7 255.7 248.3 248.8 250.8C241.1 253.5 238 269.5 230.2 265.4C215.4 257.5 209.8 239 217.6 224.2zM381.9 211.5C396.7 203.6 415.1 209.2 423 224.1C430.9 239 425.2 257.4 410.4 265.3C402.6 269.5 399.5 253.5 391.7 250.7C384.8 248.3 373 259.7 369.3 252.6C361.4 237.7 367.1 219.3 381.9 211.4z"/></svg>
+                </span>
+                <span>Hugging Face Model</span>
+              </a>
+            </span>
+
+            <span class="link-block">
+              <a href="coming-soon.html"
+              class="external-link button is-normal is-rounded is-dark">
+              <span class="icon">
+                <i class="ai ai-arxiv"></i>
+              </span>
+              <span>Lipikar</span>
+            </a>
+          </span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+    </div>
+  </section>
+
+
+  <!-- Paper abstract -->
+  <section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+                Despite the rapid advancement of Vision-Language Models
+                (VLMs), their linguistic reach remains largely confined to high-resource
+                languages, leaving the majority of the world's 7,000+ living languages
+                on the wrong side of a growing digital divide. This disparity is especially
+                pronounced in Optical Character Recognition (OCR), where low-resource
+                scripts lack the massive datasets required for traditional scaling
+                laws. We investigate OCR adaptation in extreme data-scarce regimes
+                (<strong>&lt;10K real and &lt;250K synthetic images</strong>), demonstrating that conventional
+                fine-tuning strategies often reach a performance ceiling. Our key
+                finding reveals a structural inefficiency in language-specific adaptation:
+                while higher layers of specialized models diverge to capture unique script
+                nuances, the lower layers learn redundant, highly similar features.
+                Motivated by this observation, we propose <strong>PSMC (Pre-train, Specialize,
+                Merge, and Co-train)</strong>, a data-efficient framework that capitalizes on a
+                cross-script "transfer effect". Our approach first derives language-specific
+                experts from a high-resource base model, then employs task arithmetic
+                to fuse these experts into a unified, high-performance multilingual backbone.
+                Extensive evaluation across <strong>10 Indian scripts (supporting 20+ languages)</strong>
+                shows that PSMC achieves on average a <strong>∼13% relative reduction
+                in Word Error Rate (WER)</strong> over individual specialist models without increasing
+                parameter count. Our results indicate that joint training in the
+                merged latent space facilitates a constructive knowledge transfer that
+                benefits all constituent scripts, providing a scalable pathway for inclusive
+                VLM development. Source code and datasets will be released post-publication.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Methodology section -->
+  <section class="section">
+    <div class="container is-fluid" style="padding-left: 3%; padding-right: 3%;">
+      <h2 class="title is-3 has-text-centered">Motivation &amp; Methodology</h2>
+
+      <div class="columns is-centered is-vcentered">
+        <div class="column is-half">
+          <div class="content has-text-justified">
+            <p>
+              Low-resource OCR models trained independently on individual scripts learn
+              redundant low-level features in their lower layers, while only the higher
+              layers diverge to capture script-specific nuances. Mean Central Kernel Alignment (CKA)
+              analysis across script-specific expert models reveal this structural inefficiency.
+              This finding directly motivates cotraining a multilingual model and unifying a
+              more generalized learning of low level features across scripts.
+            </p>
+          </div>
+        </div>
+        <div class="column is-half">
+          <figure class="image">
+            <img src="assets/encoder_layers.png" alt="CKA layer-wise similarity analysis" style="transform: scale(0.9); transform-origin: center center;">
+          </figure>
+        </div>
+      </div>
+
+      <div class="columns is-centered is-vcentered" style="margin-bottom: 2.5%;">
+        <div class="column is-half">
+          <figure class="image" style="overflow: hidden;">
+            <video id="arc-video" autoplay muted playsinline style="width: 100%; border-radius: 8px; background-color: #ffffff; transform: scale(1.65); transform-origin: center center;">
+              <source src="assets/final-arc.mp4" type="video/mp4">
+            </video>
+          </figure>
+        </div>
+        <div class="column is-half">
+          <div class="content has-text-justified">
+            <p>
+              Our contribution, <strong>PSMC</strong> offers a multi-step approach to addresses
+              this inefficiency in training multiple individual models for multiple scripts with a four-stage pipeline:
+              <ol>
+                <li><em>Pre-train</em> a strong unilingual base,</li>
+                <li><em>Specialize</em> per-script expert models,</li>
+                <li><em>Merge</em> experts via task arithmetic to fuse complementary knowledge without adding parameters, and</li>
+                <li><em>Co-train</em> the merged backbone jointly across all scripts to consolidate a constructive cross-script transfer effect.</li>
+              </ol>
+              This creates a unified multilingual model that outperforms individual specialists while being more parameter efficient, providing a scalable pathway for inclusive VLM development.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!-- Results section -->
+  <section class="section hero is-light">
+    <div class="container is-fluid" style="padding-left: 8%; padding-right: 8%;">
+      <h2 class="title is-3 has-text-centered">Results</h2>
+
+      <div class="columns is-centered" style="margin-bottom: 1.5%;">
+        <div class="column">
+          <video autoplay muted playsinline style="width: 100%; border-radius: 8px; background-color: #ffffff;">
+            <source src="assets/WERComparison.mp4" type="video/mp4">
+          </video>
+        </div>
+      </div>
+
+      <div class="columns is-centered is-vcentered">
+        <figure class="image">
+          <img src="assets/sceneText.png" alt="Scene text examples across Indian scripts" style="transform: scale(0.9); transform-origin: center center;">
+        </figure>
+      </div>
+
+    </div>
+  </section>
+
+
+  <!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <div class="bibtex-header">
+        <h2 class="title">BibTeX</h2>
+        <button class="copy-bibtex-btn" onclick="copyBibTeX()" title="Copy BibTeX to clipboard">
+          <i class="fas fa-copy"></i>
+          <span class="copy-text">Copy</span>
+        </button>
+      </div>
+      <pre id="bibtex-code"><code>@inproceedings{psmc2026,
+    title={Train Together: Towards Multilingual OCR Models for Low-Resource Languages},
+    author={Achyuth P and Kahaan Shah and Chetan Arora},
+    booktitle={ICDAR},
+    year={2026},
+    url={https://vision-iitd.github.io/projects/PSMC/}
+  }</code></pre>
+    </div>
+  </section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
