@@ -219,8 +219,10 @@
           </div>
         </div>
         <div class="column is-half">
-          <figure class="image">
-            <img src="assets/encoder_layers.png" alt="CKA layer-wise similarity analysis" style="transform: scale(0.9); transform-origin: center center;">
+          <figure class="image" style="overflow: hidden;">
+            <video id="arc-video" autoplay muted playsinline style="width: 100%; border-radius: 8px; background-color: #ffffff; transform: scale(1.0); transform-origin: center center;">
+              <source src="assets/EncoderBlockDepth.mp4" type="video/mp4">
+            </video>
           </figure>
         </div>
       </div>
@@ -267,11 +269,48 @@
         </div>
       </div>
 
-      <div class="columns is-centered is-vcentered">
-        <figure class="image">
-          <img src="assets/sceneText.png" alt="Scene text examples across Indian scripts" style="transform: scale(0.9); transform-origin: center center;">
-        </figure>
+      <h1 style="text-align: center; font-family: 'Times New Roman', sans-serif; font-weight: 700; font-size: 2.0rem; margin-bottom: 1.2rem; color:#000000;">Recognition Output Examples</h1>
+      <div class="columns is-centered is-vcentered" style="display: flex; align-items: center; justify-content: center;">
+        <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+          <div id="st-carousel" style="overflow: hidden; border-radius: 8px; width: 100%;">
+            <div id="st-track" style="display: flex; transition: transform 0.4s ease;">
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/mangaluruexp.png" alt="Scene text example: Multiple Languages" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/danger.png" alt="Scene text example: Multiple Languages" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/manipuri.png" alt="Scene text example: Manipuri" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/vadodara.png" alt="Scene text example: Gujarati" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/example-kn-fin.png" alt="Printed example: Kannada" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/example-mr-fin.png" alt="Printed example: Marathi" style="width: 100%; border-radius: 8px;"></figure>
+              <figure class="image" style="min-width: 100%; margin: 0;"><img src="assets/st/Example GJ Fin.png" alt="Printed example: Gujarati" style="width: 100%; border-radius: 8px;"></figure>
+            </div>
+          </div>
+          <button onclick="stCarouselPrev()" style="position: absolute; left: -3.5rem; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; border-radius: 50%; width: 2.2rem; height: 2.2rem; font-size: 1.1rem; cursor: pointer; display: flex; align-items: center; justify-content: center;">&#8249;</button>
+          <button onclick="stCarouselNext()" style="position: absolute; right: -3.5rem; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,0.5); color: white; border: none; border-radius: 50%; width: 2.2rem; height: 2.2rem; font-size: 1.1rem; cursor: pointer; display: flex; align-items: center; justify-content: center;">&#8250;</button>
+          <div style="text-align: center; margin-top: 0.6rem;" id="st-dots">
+            <span class="st-dot" onclick="stCarouselGo(0)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(1)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(2)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(3)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(4)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(5)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+            <span class="st-dot" onclick="stCarouselGo(6)" style="display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: transparent; margin: 0 3px; cursor: pointer;"></span>
+          </div>
+        </div>
       </div>
+      <script>
+        (function() {
+          var total = document.querySelectorAll('#st-track figure').length;
+          var idx = 0;
+          function update() {
+            document.getElementById('st-track').style.transform = 'translateX(-' + (idx * 100) + '%)';
+            document.querySelectorAll('.st-dot').forEach(function(d, i) {
+              d.style.background = 'transparent';
+            });
+          }
+          window.stCarouselNext = function() { idx = (idx + 1) % total; update(); };
+          window.stCarouselPrev = function() { idx = (idx - 1 + total) % total; update(); };
+          window.stCarouselGo = function(i) { idx = i; update(); };
+        })();
+      </script>
 
     </div>
   </section>

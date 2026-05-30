@@ -33,7 +33,7 @@ function copyBibTeX() {
 const arcVideo = document.getElementById('arc-video');
 if (arcVideo) {
     arcVideo.addEventListener('ended', function() {
-        setTimeout(() => this.play(), 5000);
+        setTimeout(() => this.play(), 15000);
     });
 }
 
