@@ -1,0 +1,498 @@
+- year: '2023'
+  entries:
+  - title: 'RadFormer: Transformers with global–local attention for interpretable and accurate Gallbladder Cancer detection'
+    authors: Soumen Basu, Mayank Gupta, Pratyaksha Rana, Pankaj Gupta, Chetan Arora
+    venue: Medical Image Analysis, January 2023
+    links:
+    - label: paper
+      url: https://www.sciencedirect.com/science/article/abs/pii/S1361841522003048
+  - title: 'From Forks to Forceps: A New Framework for Instance Segmentation of Surgical Instruments'
+    authors: Britty Baby, Daksh Thapar, Mustafa Chasmai, Tamajit Banerjee, Kunal Dargan, Ashish Suri, Subhashis Banerjee, Chetan Arora
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2023
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2023/papers/Baby_From_Forks_to_Forceps_A_New_Framework_for_Instance_Segmentation_WACV_2023_paper.pdf
+  - title: 'Attention Attention Everywhere: Monocular Depth Prediction with Skip Attention'
+    authors: Ashutosh Agarwal, Chetan Arora
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2023
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Attention_Attention_Everywhere_Monocular_Depth_Prediction_With_Skip_Attention_WACV_2023_paper.pdf
+  - title: Reducing Annotation Effort by Identifying and Labeling Contextually Diverse Classes for Semantic Segmentation Under Domain Shift
+    authors: Sharat Agarwal, Saket Anand, Chetan Arora
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2023
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_Reducing_Annotation_Effort_by_Identifying_and_Labeling_Contextually_Diverse_Classes_WACV_2023_paper.pdf
+  - title: 'ScribbleNet: Efficient interactive annotation of urban city scenes for semantic segmentation'
+    authors: Bhavani Sambaturu, Ashutosh Gupta, CV Jawahar, Chetan Arora
+    venue: Pattern Recognition, January 2023.
+    links:
+    - label: paper
+      url: https://www.sciencedirect.com/science/article/abs/pii/S0031320322004915
+- year: '2022'
+  entries:
+  - title: Ultra-high resolution, multi-scale, context-aware approach for detection of small cancers on mammography
+    authors: Krithika Rangarajan, Aman Gupta, Saptarshi Dasgupta, Uday Marri, Arun Kumar Gupta, Smriti Hari, Subhashis Banerjee, and Chetan Arora
+    venue: Nature Scientific Reports, July 2022.
+    links:
+    - label: paper
+      url: https://www.nature.com/articles/s41598-022-15259-7
+  - title: 'Master of All: Simultaneous Generalization of Urban-Scene Segmentation to All Adverse Weather Conditions'
+    authors: Nikhil Reddy, Abhinav Singhal, Abhishek Kumar, Mahsa Baktashmotlagh, and Chetan Arora
+    venue: European Conference on Computer Vision (ECCV), October 2022.
+    links: []
+  - title: 'My View is the Best View: Procedure Learning from Egocentric Videos'
+    authors: Siddhant Bansal, Chetan Arora, and C.V. Jawahar
+    venue: European Conference on Computer Vision (ECCV), October 2022.
+    links: []
+  - title: New Objects on the Road? No Problem - We’ll Learn Them Too
+    authors: Deepak Kumar Singh, Shyam Nandan Rai, K J Joseph, Rohit Saluja, Vineeth N Balasubramanian, Chetan Arora, Anbumani Subramanian, and C.V. Jawahar
+    venue: Accepted for publication in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2022.
+    links: []
+  - title: Representation Learning using Rank Loss for Robust Neurosurgical Skills Evaluation
+    authors: Britty Baby, Mustafa Chasmai, Tamajit Banerjee, Ashish Suri, Subhashis Banerjee, and Chetan Arora
+    venue: Accepted for publication in International Conference on Image Processing (ICIP), October 2022.
+    links: []
+  - title: 'DepthFormer: Multiscale Vision Transformer for Monocular Depth Estimation with Global Local Information Fusion'
+    authors: Ashutosh Agarwal, and Chetan Arora
+    venue: Accepted for publication in International Conference on Image Processing (ICIP), October 2022.
+    links: []
+  - title: A Novel Data Augmentation Technique for Out-of-Distribution Sample Detection using Compounded Corruptions
+    authors: Ramya Hebbalaguppe, Soumya Ghosal, Jatin Prakash, Harshad Khadilkar, Chetan Arora
+    venue: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), September 2022.
+    links: []
+  - title: Unsupervised Contrastive Learning of Image Representations from Ultrasound Videos with Hard Negative Mining
+    authors: Soumen Basu, Somanshu Singla, Mayank Gupta, Pratyaksha Rana, Pankaj Gupta, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), September 2022.
+    links:
+    - label: project page
+      url: https://gbc-iitd.github.io/usucl
+  - title: 'Merry Go Round: Rotate a Frame and Fool a DNN'
+    authors: Daksh Thapar, Aditya Nigam, and Chetan Arora
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2022.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/daksh_cvpr22.pdf
+  - title: 'Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning'
+    authors: Soumen Basu, Mayank Gupta, Pratyaksha Rana, Pankaj Gupta, and Chetan Arora
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2022.
+    links:
+    - label: paper
+      url: https://arxiv.org/pdf/2204.11433.pdf
+    - label: project page
+      url: https://gbc-iitd.github.io/gbcnet
+  - title: 'A Stitch in Time Saves Nine: A Train-Time Regularizing Loss for Improved Neural Network Calibration'
+    authors: Ramya Hebbalaguppe, Jatin Prakash, Neelabh Madan, Chetan Arora
+    venue: 'IEEE International Conference on Computer Vision and Pattern Recognition (CVPR) [ Oral: acceptance rate 3%]'
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2022/papers/Hebbalaguppe_A_Stitch_in_Time_Saves_Nine_A_Train-Time_Regularizing_Loss_CVPR_2022_paper.pdf
+    - label: project page
+      url: https://github.com/mdca-loss
+    - label: Suppl material
+      url: https://openaccess.thecvf.com/content/CVPR2022/supplemental/Hebbalaguppe_A_Stitch_in_CVPR_2022_supplemental.pdf
+    - label: code
+      url: https://github.com/mdca-loss/MDCA-Calibration
+    - label: poster
+      url: ../assets/1741_poster.pdf
+    - label: Video
+      url: https://www.youtube.com/watch?v=rwLfCA7OLno
+  - title: 'FLUID: Few-Shot Self-Supervised Image Deraining'
+    authors: Shyam Nandan Rai, Rohit Saluja, Chetan Arora, Vineeth N Balasubramanian, Anbumani Subramanian, and CV Jawahar
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022.
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2022/papers/Nandan_FLUID_Few-Shot_Self-Supervised_Image_Deraining_WACV_2022_paper.pdf
+  - title: Attention Guided Cosine Margin To Overcome Class-Imbalance in Few-Shot Road Object Detection
+    authors: Ashutosh Agarwal, Anay Majee, Anbumani Subramanian, and Chetan Arora
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW), January 2022.
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2022W/DNOW/papers/Agarwal_Attention_Guided_Cosine_Margin_To_Overcome_Class-Imbalance_in_Few-Shot_Road_WACVW_2022_paper.pdf
+  - title: To miss-attend is to misalign! Residual Self-Attentive Feature Alignment for Adapting Object Detectors
+    authors: Vaishnavi Khindkar, Chetan Arora, Vineeth N Balasubramanian, Anbumani Subramanian, Rohit Saluja, and CV Jawahar
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022.
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2022/papers/Khindkar_To_Miss-Attend_Is_to_Misalign_Residual_Self-Attentive_Feature_Alignment_for_WACV_2022_paper.pdf
+  - title: Does Data Repair Lead to Fair Models? Curating Contextually Fair Data To Reduce Model Bias
+    authors: Sharat Agarwal, Sumanyu Muku, Saket Anand, and Chetan Arora
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022.
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2022/papers/Agarwal_Does_Data_Repair_Lead_to_Fair_Models_Curating_Contextually_Fair_WACV_2022_paper.pdf
+  - title: Multi-Domain Incremental Learning for Semantic Segmentation
+    authors: Prachi Garg, Rohit Saluja, Vineeth N Balasubramanian, Chetan Arora, Anbumani Subramanian, and CV Jawahar
+    venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), January 2022.
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2022/papers/Garg_Multi-Domain_Incremental_Learning_for_Semantic_Segmentation_WACV_2022_paper.pdf
+- year: '2021'
+  entries:
+  - title: Comprehensive Telerobotic Ultrasound System for Abdominal Development and in-vivo Feasibility Study
+    authors: Deepak Raina, Hardeep Singh, Subir Kumar Saha, Chetan Arora, Ayushi Agarwal, SH Chandrashekhara, Krithika Rangarajan, Suvayan Nandi
+    venue: International Symposium on Medical Robotics (ISMR), November 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/deepak_ismr21.pdf
+    - label: IIT Delhi Press Release
+      url: https://home.iitd.ac.in/show.php?id=37&in_sections=Press
+    - label: Video Demo
+      url: https://owncloud.iitd.ac.in/nextcloud/index.php/s/zSRQifnZQkDBxz2
+    - label: Media Coverage 1
+      url: https://www.youtube.com/watch?v=8pGVifV66fk&feature=youtu.be
+    - label: Media Coverage 2
+      url: https://www.youtube.com/watch?v=bN1qPDuRxOM
+    - label: Media Coverage 3
+      url: https://www.sify.com/news/aiims-develops-telerobotic-ultrasound-system-with-iit-delhi-news-national-viodkufajfagc.html
+    - label: Media Coverage 4
+      url: https://timesofindia.indiatimes.com/city/delhi/new-robotic-tech-for-ultrasound-with-doc-at-arms-length/articleshowprint/85313363.cms
+    - label: Media Coverage 5
+      url: https://www.news18.com/news/education-career/iit-delhi-aiims-researchers-jointly-create-remote-ultrasound-system-using-robotics-4068332.html
+  - title: Generating Personalized Summaries of Day Long Egocentric Videos
+    authors: Pravin Nagar, Anuj Rathore, CV Jawahar, and Chetan Arora
+    venue: IEEE Transactions on Pattern Analysis and Machine Intelligence, October 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/pravin-pami21.pdf
+  - title: Anonymizing Egocentric Videos
+    authors: Daksh Thapar, Aditya Nigam, and Chetan Arora
+    venue: IEEE/CVF International Conference on Computer Vision (ICCV), October 2021.
+    links:
+    - label: paper
+      url: http://openaccess.thecvf.com/content/ICCV2021/papers/Thapar_Anonymizing_Egocentric_Videos_ICCV_2021_paper.pdf
+  - title: 'VmAP: A Fair Metric for Video Object Detection'
+    authors: Anupam Sobti, Vaibhav Mavi, M Balakrishnan, and Chetan Arora
+    venue: ACM International Conference on Multimedia (ACM-MM), October 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/anupam-mm21.pdf
+    - label: code
+      url: https://github.com/vaibhavg152/VmAP-video-object-detection-evaluation-metric
+  - title: Efficient and Generic Interactive Segmentation Framework to Correct Mispredictions during Clinical Evaluation of Medical Images
+    authors: Bhavani Sambaturu, Ashutosh Gupta, CV Jawahar, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), September 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/bhavani-miccai21.pdf
+  - title: Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks
+    authors: Ankita Raj, Ambar Pal, and Chetan Arora
+    venue: IEEE International Conference on Image Processing (ICIP), September 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ankita-icip21.pdf
+  - title: Artificial Intelligence–assisted chest X-ray assessment scheme for COVID-19
+    authors: Krithika Rangarajan, Sumanyu Muku, ..., and Chetan Arora
+    venue: European Radiology, January 2021.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ER-2021.pdf
+- year: '2020'
+  entries:
+  - title: Recognizing Camera Wearer from Hand Gestures in Egocentric Videos
+    authors: Daksh Thapar, Aditya Nigam, and Chetan Arora
+    venue: ACM International Conference on Multimedia (ACM-MM), October 2020.
+    links:
+    - label: paper
+      url: cse.iitd.ac.in/~chetan/papers/daksh-mm-2020.pdf
+  - title: Concept Drift Detection for Multivariate Data Streams and Temporal Segmentation of Daylong Egocentric Videos
+    authors: Pravin Nagar, Mansi Khemka, and Chetan Arora
+    venue: ACM International Conference on Multimedia (ACM-MM), October 2020.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/pravin-mm-2020.pdf
+  - title: Is Sharing of Egocentric Video Giving Away Your Biometric Signature?
+    authors: Daksh Thapar, Chetan Arora and Aditya Nigam
+    venue: European Conference on Computer Vision (ECCV), August 2020.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/daksh-eccv-2020.pdf
+  - title: An Inference Algorithm for Multi-Label MRF-MAP Problems with Clique Size 100.
+    authors: Ishant Shanu, Siddhant Bharti, Chetan Arora, and S. N. Maheshwari.
+    venue: European Conference on Computer Vision (ECCV), August 2020.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ishant-eccv-2020.pdf
+  - title: Contextual Diversity for Active Learning.
+    authors: Sharat Agarwal, Himanshu Arora, Saket Anand, and Chetan Arora
+    venue: European Conference on Computer Vision (ECCV), August 2020.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/sharat-eccv-2020.pdf
+- year: '2019'
+  entries:
+  - title: Generating 1 Minute Summaries of Day Long Egocentric Videos.
+    authors: Anuj Rathore, Pravin Nagar, Chetan Arora, and C.V. Jawahar
+    venue: ACM International Conference on Multimedia (ACM-MM), October 2019.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/pravin-mm-2019.pdf
+  - title: Multi-sensor Energy Efficient Obstacle Detection
+    authors: Anupam Sobti, M. Balakrishnan, and Chetan Arora
+    venue: Euromicro Conference on Digital System Design (DSD), August 2019.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/anupam-dsd-2019.pdf
+  - title: 'MAVI: Mobility Assistant for Visually Impaired with Optional Use of Local and Cloud Resources.'
+    authors: Rajesh Kedia, Anupam Sobti, Mukund Rungta, Sarvesh Chandoliya, Akhil Soni, Anil Kumar Meena, Chrystle Myrna Lobo, Richa Verma, M. Balakrishnan, and Chetan Arora
+    venue: International Conference on VLSI Design (VLSID), January 2019.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/mavi-vlsid-2019.pdf
+  - title: 'EGO-SLAM: A Robust Monocular SLAM for Egocentric Videos.'
+    authors: Suvam Patra, Kartikeya Gupta, Faran Ahmad, Chetan Arora, and Subhashis Banerjee
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), January 2019.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/wacv19-egoslam.pdf
+- year: '2018'
+  entries:
+  - title: Exploiting Texture Cues for Clothing Parsing in Fashion Images
+    authors: Tarasha Khurana, Kushagra Mahajan, Chetan Arora, and Atul Rai
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: cse.iitd.ac.in/~chetan/papers/icip18-texture.pdf
+  - title: Pose Aware Fine-Grained Visual Classification Using Pose Experts
+    authors: Kushagra Mahajan, Tarasha Khurana, Ayush Chopra, Isha Gupta, Chetan Arora, and Atul Rai
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/icip18-fgvc.pdf
+  - title: Diversity in Fashion Recommendation using Semantic Parsing
+    authors: Sagar Verma, Sukhad Anand, Chetan Arora, and Atul Rai
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: cse.iitd.ac.in/~chetan/papers/icip18-fashion-diversity.pdf
+  - title: 'U-SegNet: Fully Convolutional Neural Network based Automated Brain tissue segmentation Tool'
+    authors: Pulkit Kumar, Pravin Nagar, Chetan Arora, and Anubha Gupta
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/icip18-brain-seg.pdf
+  - title: Making Third Person Techniques Recognize First-Person Actions in Egocentric Videos
+    authors: Sagar Verma, Pravin Nagar, Divam Gupta, and Chetan Arora
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/icip18-ego-actions.pdf
+  - title: Making Deep Neural Network Fooling Practical
+    authors: Ambar Pal, and Chetan Arora
+    venue: International Conference on Image Processing (ICIP), October 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/icip18-dn-fooling.pdf
+  - title: Inference in Higher Order MRF-MAP Problems with Small and Large Cliques
+    authors: Ishant Shanu, Chetan Arora, and S.N. Maheshwari
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/cvpr18.pdf
+  - title: Stabilizing First Person 360 Degree Videos
+    authors: Chetan Arora, and Vivek Kwatra
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/stab360-wacv18.pdf
+    - label: demo video
+      url: https://www.cse.iitd.ac.in/~chetan/papers/stab360-wacv18.mp4
+  - title: Learning Higher Order Potentials For MRFs
+    authors: Dinesh Khandelwal, Chetan Arora, and Parag Singla
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/dinesh-wacv18.pdf
+  - title: A Joint 3D-2D based Method for Free Space Detection on Roads
+    authors: Suvam Patra, Pranjal Maheshwari, Shashank Yadav, Subhashis Banerjee, and Chetan Arora
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/free-space-wacv18.pdf
+  - title: 'Object Detection in Real-Time Systems: Going Beyond Precision'
+    authors: Anupam Sobti, Chetan Arora, and M. Balakrishnan
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2018.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/obj-det-wacv18.pdf
+- year: '2017'
+  entries:
+  - title: Deep CNN with Color Lines Model for Unmarked Road Segmentation
+    authors: Shashank Yadav, Suvam Patra, Chetan Arora, and Subhashis Banerjee.
+    venue: International Conference on Image Processing (ICIP), September 2017.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/icip17.pdf
+  - title: Unsupervised Learning of Deep Feature Representation for Clustering Egocentric Actions
+    authors: Bharat Bhatnagar, Suriya Singh, Chetan Arora, and C.V. Jawahar.
+    venue: International Joint Conference on Artificial Intelligence (IJCAI), August 2017.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ijcai17.pdf
+  - title: Trajectory Aligned Features For First Person Action Recognition
+    authors: Suriya Singh, Chetan Arora, and C.V. Jawahar.
+    venue: Pattern Recognition, February 2017.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/pr2017.pdf
+    - label: project page
+      url: http://cvit.iiit.ac.in/projects/FirstPersonActions/
+  - title: 'MAVI: An Embedded Device to Assist Mobility of Visually Impaired,'
+    authors: Rajesh Kedia, K.K. Yoosuf, P. Dedeepya, M. Fazal, Chetan Arora, and M. Balakrishnan.
+    venue: 16th IEEE International Conference on Embedded Systems and VLSI Design, January 2017.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/mavi-vlsid2017.pdf
+  - title: 'EgoSampling: Wide View Hyperlapse from Single and Multiple Egocentric Videos'
+    authors: Tavi Halperin, Yair Poleg, Chetan Arora, and Shmuel Peleg.
+    venue: IEEE Transactions on Circuits and Systems for Video Technology, January 2017.
+    links:
+    - label: paper
+      url: https://arxiv.org/pdf/1604.07741.pdf
+  - title: Computing Egomotion with Local Loop Closures for Egocentric Videos,
+    authors: Suvam Patra, Himanshu Aggarwal, Himani Arora, Chetan Arora and Subhashis Banerjee.
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2017.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~Suvam/wacv2017.html
+- year: '2016'
+  entries:
+  - title: First Person Action Recognition Using Deep Learned Descriptors
+    authors: Suriya Singh, Chetan Arora and C.V. Jawahar
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2016.
+    links:
+    - label: paper
+      url: cse.iitd.ac.in/~chetan/papers/deep-actions-cvpr2016.pdf
+    - label: project page
+      url: http://cvit.iiit.ac.in/projects/FirstPersonActions/
+  - title: Min Norm Point Algorithm for Higher Order MRF-MAP Inference
+    authors: Ishant Shanu, Chetan Aora and Parag Singla
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2016.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/minnorm-cvpr2016.pdf
+    - label: project page
+      url: https://www.iiitd.edu.in/~ishants/SoSSFM.html
+  - title: Compact CNN for Indexing Egocentric Videos
+    authors: Yair Poleg, Ariel Ephrat, Shmuel Peleg and Chetan Arora
+    venue: IEEE Winter Conference on Applications of Computer Vision (WACV), March 2016.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/compact-cnn-wacv2016.pdf
+    - label: project page
+      url: https://www.vision.huji.ac.il/egoseg/
+  - title: Lazy Generic Cuts
+    authors: Dinesh Khandelwal, Kush Bhatia, Chetan Arora, and Parag Singla,
+    venue: Computer Vision and Image Understanding (CVIU), 2016
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/lgc-cviu2016.pdf
+- year: Before 2016
+  entries:
+  - title: Generic Action Recognition from Egocentric Videos
+    authors: Suriya Singh, Chetan Arora, and C.V. Jawahar
+    venue: Fifth National Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics (NCVPRIPG), December 2015.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ncvpripg2015.pdf
+    - label: project page
+      url: http://cvit.iiit.ac.in/projects/FirstPersonActions/
+  - title: 'EgoSampling: Fast-Forward and Stereo for Egocentric Videos,'
+    authors: Yair Poleg, Tavi Halperin, Chetan Arora, and Shmuel Peleg,
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2015.
+    links:
+    - label: paper
+      url: cse.iitd.ac.in/~chetan/papers/egosampling-cvpr2015.pdf
+    - label: project page
+      url: https://www.vision.huji.ac.il/egosampling/
+  - title: Generalized Flows for Optimal Inference in Higher Order MRF-MAP
+    authors: Chetan Arora, Subhashis Banerjee, Prem Kalra, and S.N. Maheshwari
+    venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2015
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/gc-pami.pdf
+  - title: Head Motion Signatures from Egocentric Videos
+    authors: Yair Poleg, Chetan Arora, and Shmuel Peleg
+    venue: Asian Conference on Computer Vision (ACCV), November 2014.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/egosig-accv2014.pdf
+    - label: poster
+      url: https://www.cse.iitd.ac.in/~chetan/papers/egosig-accv2014-poster.pdf
+  - title: Optical Flow for non Lambertian surfaces by cancelling illuminant chromaticity
+    authors: Chetan Arora and Michael Werman
+    venue: IEEE International Conference on Image Processing (ICIP), October 2014.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/specular-flow-icip2014.pdf
+  - title: 'Multi Label Generic Cuts: Optimal Inference in Multi Label Multi Clique MRF-MAP Problems'
+    authors: Chetan Arora and S.N. Maheshwari,
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/mlgc-cvpr14.pdf
+    - label: project page
+      url: https://www.cse.iitd.ac.in/~chetan/abstracts/mlgc.html
+  - title: Fast Approximate Inference in Higher Order MRF-MAP Labeling Problems
+    authors: Chetan Arora, Subhashis Banerjee, Prem Kalra, and S.N. Maheshwari
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/ac-cvpr14.pdf
+    - label: project page
+      url: https://www.cse.iitd.ac.in/~chetan/abstracts/ac.html
+  - title: Temporal Segmentation of Egocentric Video
+    authors: Yair Poleg, Chetan Arora, and Shmuel Peleg
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), June 2014.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/egocentric-cvpr14.pdf
+    - label: poster
+      url: https://www.cse.iitd.ac.in/~chetan/papers/EgoSeg-Poster.pdf
+    - label: project page
+      url: https://www.vision.huji.ac.il/egoseg/
+  - title: Higher Order Matching for Consistent Multiple Target Tracking
+    authors: Chetan Arora and Amir Globerson
+    venue: IEEE International Conference on Computer Vision (ICCV), December 2013.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/homatching-iccv2013.pdf
+  - title: Efficient Representation of Distributions for Background Subtraction
+    authors: Yedid Hoshen, Chetan Arora, Yair Poleg, and Shmuel Peleg
+    venue: IEEE International Conference on Advanced Video and Signal Based Surveillance (AVSS), September 2013.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/quantiles-avss2013.pdf
+  - title: 'Generic Cuts: An Efficient Optimal Algorithm for Submodular MRF-MAP Problems with Higher Order Cliques'
+    authors: Chetan Arora, Subhashis Banerjee, Prem Kalra, and S.N. Maheshwari,
+    venue: European Conference on Computer Vision (ECCV), October 2012.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/gc-eccv2012.pdf
+    - label: project page
+      url: https://www.cse.iitd.ac.in/~chetan/abstracts/gc.html
+  - title: An Efficient Graph Cut Algorithm for Computer Vision Problems
+    authors: Chetan Arora, Subhashis Banerjee, Prem Kalra, and S.N. Maheshwari,
+    venue: European Conference on Computer Vision (ECCV), September 2010.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/vpp-eccv2010.pdf
+  - title: 'Rectified Mosaicing: Mosaics without the Curl'
+    authors: Assaf Zomet, Shmuel Peleg, Chetan Arora, and Takeo Miyazawa
+    venue: IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2000.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/antibanana-cvpr2000.pdf
+  - title: 'Image: An Extensible Agent-based Architecture for Image Retrieval'
+    authors: Hiranmay Ghosh, Santanu Chaudhury, Chetan Arora, and Paramjeet Nirankari
+    venue: International Journal on Digital Libraries (IJODL), 2000.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/image-ijodl2000.pdf
+  - title: Content based Image Retrieval using Mobile Agents
+    authors: Chetan Arora, Paramjeet Nirankari, Hiranmay Ghosh, and Santanu Chaudhury
+    venue: 3rd International Conference on Computational Intelligence and Multimedia Applications (ICCIMA), 1999.
+    links:
+    - label: paper
+      url: https://www.cse.iitd.ac.in/~chetan/papers/mobileagents-iccima1999
