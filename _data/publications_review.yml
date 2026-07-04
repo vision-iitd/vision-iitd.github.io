@@ -1,0 +1,54 @@
+- title: 'Deep-learning enabled ultrasound based detection of gallbladder cancer in northern India: a prospective diagnostic study'
+  authors: Pankaj Gupta, Soumen Basu, Pratyaksha Rana, Usha Dutta, Raghuraman Soundararajan, Daneshwari Kalage, Manika Chhabra, Shravya Singh, Thakur Deen Yadav, Vikas Gupta, Lileswar Kaman, Chandan Krushna Das, Parikshaa Gupta, Uma Nahar Saikia, Radhika Srinivasan, Manavjit Singh Sandhu, and Chetan Arora
+  venue: The Lancet Regional Health-Southeast Asia 24, 2024, 2024
+  links:
+  - label: paper
+    url: https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(23)00139-7/fulltext
+- title: Weakly supervised large-scale pancreatic cancer detection using multi-instance learning
+  authors: Shyamapada Mandal, Keerthiveena Balraj, Hariprasad Kodamana, Chetan Arora, Julie M Clark, David S Kwon, and Anurag S Rathore
+  venue: Frontiers in Oncology 14, 1362850, 2024, 2024
+  links:
+  - label: paper
+    url: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1362850/full
+- title: Understanding Calibration Transfer in Knowledge Distillation
+  authors: Ramya Hebbalaguppe, Mayank Baranwal, Jatin Prakash, Neelabh Madan, Kartik Anand, and Chetan Arora
+  venue: Unknown venue, 2024
+  links:
+  - label: paper
+    url: https://openreview.net/forum?id=zEkvV65Wi1
+- title: A deep learning approach for objective evaluation of microscopic neuro-drilling craniotomy skills
+  authors: Raman Kumar, Rohan Raju Dhanakshirur, Ramandeep Singh, Ashish Suri, Prem Kumar Kalra, and Chetan Arora
+  venue: Computers in Biology and Medicine 196, 110650, 2025, 2025
+  links:
+  - label: paper
+    url: https://www.sciencedirect.com/science/article/pii/S0010482525010017
+- title: 'microclip: Unsupervised clip adaptation via coarse-fine token fusion for fine-grained image classification'
+  authors: Sathira Silva, Eman Ali, Chetan Arora, and Muhammad Haris Khan
+  venue: 'Findings of the Association for Computational Linguistics: ACL 2026, 33277-33294, 2026, 2026'
+  links:
+  - label: paper
+    url: https://aclanthology.org/2026.findings-acl.1664.pdf
+- title: 'Driving global health equity with artificial intelligence: the global initiative on AI for health (GI-AI4H)'
+  authors: Ramesh Raskar, Ayush Chopra, Shada AlSalamah, Andrew Farlow, Kanika Kalra, Rajeshwari Singh, Yu Zhao, Richelle George, Chetan Arora, Mariam Nouh, Xu Shan, Simão Campos, Nancy Pignataro, Leon Tze Yun, Sameer Pujari, Alain Labrique, and Batoul Baz
+  venue: npj Health Systems 3 (1), 38, 2026, 2026
+  links:
+  - label: paper
+    url: https://www.nature.com/articles/s44401-026-00089-w
+- title: 'Multiple instance learning approach for automated gallbladder cancer detection using ultrasound imaging: multi-center validation of a deep learning model with the public …'
+  authors: Pankaj Gupta, Kartik Bose, Priya Mudgil, Niharika Dutta, Ajay Gulati, Gaurav Prakash, Thakur Deen Yadav, Lileswar Kaman, Santosh Irrinki, Harjeet Singh, Divya Khosla, Himangi Unde, Nitin Shetty, Ishan Kumar, Viswaja Chalapati, Ashish Verma, Himanshu Pruthi, Himika Bansal, Jyotsna Sen, Rakesh Kapoor, Rajesh Gupta, Chetan Arora, and Usha Dutta
+  venue: The Lancet Regional Health-Southeast Asia 47, 2026, 2026
+  links:
+  - label: paper
+    url: https://www.thelancet.com/journals/lansea/article/PIIS2772-3682(26)00022-3/fulltext
+- title: Leapfrogging Health Services Delivery In Resource-Limited Settings With Artificial Intelligence
+  authors: Kiran Raj Pandey, Bishesh Khanal, Udunna Anazodo, Rosalind Parkes-Ratanshi, Binod Bhattarai, Chetan Arora, Gilberto Ochoa-Ruiz, and Rose Nakasi
+  venue: Available at SSRN 5455294, 2025, 2025
+  links:
+  - label: paper
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5455294
+- title: 'A Population-Specific Breast Cancer Risk Prediction Model for Indian Women (A Pilot Study): Advancing Beyond Traditional Assessment Tools'
+  authors: Prasoon Prakash, Kanika Arora, Arushi Gupta, Eshita Zjigyasu, Vishal Vivek Saley, Vipul Kumar Rathore, Aarjav Satia, Chetan Arora, Mausam, Krithika Rangarajan, Amit Gupta, Sarthak Singh, Hari Sagiraju, Kalpa Jyoti Das, Jitendra Kumar Meena, and Ishaan Gupta
+  venue: medRxiv, 2025.07. 20.25331883, 2025, 2025
+  links:
+  - label: paper
+    url: https://www.medrxiv.org/content/10.1101/2025.07.20.25331883.abstract

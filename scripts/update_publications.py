@@ -185,6 +185,8 @@ def main():
             "venue": venue_str,
             "links": [{"label": "paper", "url": url}] if url else [],
         }
+        
+        print(entry)
 
         seen[norm] = category
 

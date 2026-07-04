@@ -1,3 +1,271 @@
+- year: '2026'
+  entries:
+  - title: Domain Generalizing DINO for Visual Regression via Latent Distractor Subspace Consistency
+    authors: Nikhil Reddy, Chetan Arora, and Mahsa Baktashmotlagh
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2026/html/Reddy_Domain_Generalizing_DINO_for_Visual_Regression_via_Latent_Distractor_Subspace_WACV_2026_paper.html
+  - title: 'From manual parametric to artificial intelligence-based automation: A systematic review of recent advances in endoscopic surgical skills evaluation'
+    authors: Rohan Raju Dhanakshirur, Ramandeep Singh, Parul Berry, Harsh Jain, Ashish Suri, Prem Kumar Kalra, and Chetan Arora
+    venue: Journal of Minimal Access Surgery, 10.4103, 2026, 2026
+    links:
+    - label: paper
+      url: https://journals.lww.com/jmas/fulltext/9900/from_manual_parametric_to_artificial.244.aspx
+  - title: VGGT-SLAM++
+    authors: Avilasha Mandal, Rajesh Kumar, Sudarshan Sunil Harithas, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2026W/VOCVALC/html/Mandal_VGGT-SLAM_CVPRW_2026_paper.html
+  - title: 'CLIP-Inspector: Model-Level Backdoor Detection for Prompt-Tuned CLIP via OOD Trigger Inversion'
+    authors: Akshit Jindal, Saket Anand, Chetan Arora, and Vikram Goyal
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2026F/html/Jindal_CLIP-Inspector_Model-Level_Backdoor_Detection_for_Prompt-Tuned_CLIP_via_OOD_Trigger_CVPRF_2026_paper.html
+  - title: Continual Adaptation of Vision Foundational Models for Semantic Segmentation in Adverse Weather
+    authors: Nikhil Kumar Jangamreddy, Mahsa Baktashmotlagh, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2026F/html/Jangamreddy_Continual_Adaptation_of_Vision_Foundational_Models_for_Semantic_Segmentation_in_CVPRF_2026_paper.html
+  - title: 'Adapting with an Open Mind: Leveraging Open-Vocabulary Detectors for Closed Set Source-Free Domain Adaptive Object Detection'
+    authors: Kaustubh R Borgavi, Sarvesh Shashikumar, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2026F/html/Borgavi_Adapting_with_an_Open_Mind_Leveraging_Open-Vocabulary_Detectors_for_Closed_CVPRF_2026_paper.html
+  - title: Debiasing Ultrasound Video Learning via Motion-Aware State-Space Modeling
+    authors: Richa Thakur, Chetan Arora, and Aditya Nigam
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2026W/PHAROS-AIF-MIH/html/Thakur_Debiasing_Ultrasound_Video_Learning_via_Motion-Aware_State-Space_Modeling_CVPRW_2026_paper.html
+  - title: Backdoor Attacks on Open Vocabulary Object Detectors via Multi-Modal Prompt Tuning
+    authors: Ankita Raj, and Chetan Arora
+    venue: Proceedings of the AAAI Conference on Artificial Intelligence 40 (44), 37849 …, 2026, 2026
+    links:
+    - label: paper
+      url: https://ojs.aaai.org/index.php/AAAI/article/view/41121
+  - title: 'Attend what matters: Leveraging vision foundational models for breast cancer classification using mammograms'
+    authors: Samyak Sanghvi, Piyush Miglani, Sarvesh Shashikumar, Kaustubh R Borgavi, Veenu Singla, and Chetan Arora
+    venue: 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), 1-4, 2026, 2026
+    links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/11515344/
+  - title: Robust and Efficient 3D Gaussian Splatting for Diagnostic Imaging
+    authors: Mrinal Tyagi, Ashish Suri, and Chetan Arora
+    venue: 2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI), 1-4, 2026, 2026
+    links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/11515766/
+  - title: 'Artificial Intelligence for Molecular Subtyping in Unresectable Gallbladder Cancer: A Proof-of-Concept Study for CT-based HER2 Status Prediction'
+    authors: Pankaj Gupta, Chetan Madan, Niharika Dutta, Shravya Singh, Nikita Pradhan, Ruby Siddiqui, Ajay Tomar, Ajay Gulati, Naveen Kalra, Gaurav Prakash, Thakur Deen Yadav, Lileswar Kaman, Santosh Irrinki, Harjeet Singh, Parikshaa Gupta, Uma Nahar, Ritambhra Nada, Divya Khosla, Rakesh Kapoor, Rajender Basher, Rajesh Gupta, Radhika Srinivasan, Manavjit Singh Sandhu, Usha Dutta, Raymond Endozo, Balaji Ganeshan, Andrew Smith, and Chetan Arora
+    venue: Journal of Clinical and Experimental Hepatology, 103563, 2026, 2026
+    links:
+    - label: paper
+      url: https://www.sciencedirect.com/science/article/pii/S0973688326000952
+  - title: Towards Fine-Grained Adaptation of CLIP via a Self-Trained Alignment Score
+    authors: Eman Ali, Sathira Silva, Chetan Arora, and Muhammad Haris Khan
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2026, 2026
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2026/html/Ali_Towards_Fine-Grained_Adaptation_of_CLIP_via_a_Self-Trained_Alignment_Score_WACV_2026_paper.html
+- year: '2025'
+  entries:
+  - title: 'Deep learning-based segmentation of gallbladder cancer on abdominal computed tomography scans: a multicenter study'
+    authors: Pankaj Gupta, Niharika Dutta, Ajay Tomar, Shravya Singh, Sonam Choudhary, Nandita Mehta, Vansha Mehta, Rishabh Sheth, Divyashree Srivastava, Salai Thanihai, Palki Singla, Gaurav Prakash, Thakur Yadav, Lileswar Kaman, Santosh Irrinki, Harjeet Singh, Niket Shah, Amit Choudhari, Shraddha Patkar, Mahesh Goel, Rajnikant Yadav, Archana Gupta, Ishan Kumar, Kajal Seth, Usha Dutta, and Chetan Arora
+    venue: Abdominal Radiology 50 (10), 4615-4624, 2025, 2025
+    links:
+    - label: paper
+      url: https://link.springer.com/article/10.1007/s00261-025-04887-y
+  - title: 'PEFTDiff: Diffusion-Guided Transferability Estimation for Parameter-Efficient Fine-Tuning'
+    authors: Prafful Kumar Khoba, Zijian Wang, Chetan Arora, and Mahsa Baktashmotlagh
+    venue: Proceedings of the IEEE/CVF International Conference on Computer Vision …, 2025, 2025
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/ICCV2025/html/Khoba_PEFTDiff_Diffusion-Guided_Transferability_Estimation_for_Parameter-Efficient_Fine-Tuning_ICCV_2025_paper.html
+  - title: 'Prompting without Panic: Attribute-Aware, Zero-Shot, Test-Time Calibration'
+    authors: Ramya Hebbalaguppe, Tamoghno Kandar, Abhinav Nagpal, and Chetan Arora
+    venue: Joint European Conference on Machine Learning and Knowledge Discovery in …, 2025, 2025
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-032-06106-5_17
+  - title: 'Focus on Texture: Rethinking Pre-training in Masked Autoencoders for Medical Image Classification'
+    authors: Chetan Madan, Aarjav Satia, Soumen Basu, Pankaj Gupta, Usha Dutta, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2025, 2025
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-032-04965-0_20
+  - title: 'LQ-Adapter: ViT-Adapter with Learnable Queries for Gallbladder Cancer Detection from Ultrasound Images'
+    authors: Chetan Madan, Mayuna Gupta, Soumen Basu, Pankaj Gupta, and Chetan Arora
+    venue: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025, 2025
+    links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/10943613/
+  - title: 'Feature Space Perturbation: A Panacea to Enhanced Transferability Estimation'
+    authors: Prafful Kumar Khoba, Zijian Wang, Chetan Arora, and Mahsa Baktashmotlagh
+    venue: 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2025, 2025
+    links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/10943614/
+  - title: 'Simulation training in mammography with AI-generated images: a multireader study'
+    authors: Krithika Rangarajan, Veeramakali Vignesh Manivannan, Harpinder Singh, Amit Gupta, Hrithik Maheshwari, Rishparn Gogoi, Debashish Gogoi, Rupam Jyoti Das, Smriti Hari, Surabhi Vyas, Raju Sharma, Shivam Pandey, V Seenu, Subhashis Banerjee, Vinay Namboodiri, and Chetan Arora
+    venue: European radiology 35 (2), 562-571, 2025, 2025
+    links:
+    - label: paper
+      url: https://link.springer.com/article/10.1007/s00330-024-11005-x
+- year: '2024'
+  entries:
+  - title: Domain-Aware Knowledge Distillation for Continual Model Generalization
+    authors: Nikhil Reddy, Mahsa Baktashmotlagh, and Chetan Arora
+    venue: 2024 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV …, 2024, 2024
+    links: []
+  - title: Welcome Message from General and Program Chairs
+    authors: Abhinav Dhall, Sudeep Sarkar, Chetan Arora, Rahul Narain, Kaushik Mitra, and Ian Reid
+    venue: 14th Indian Conference on Computer Vision, Graphics and Image Processing, v-v, 2024, 2024
+    links:
+    - label: paper
+      url: https://researchnow.flinders.edu.au/en/publications/welcome-message-from-general-and-program-chairs/
+  - title: 'DiffMamba: Leveraging Mamba for Effective Fusion of Noise and Conditional Features in Diffusion Models for Skin Lesion Segmentation'
+    authors: Amit Shakya, Shruti Phutke, Chetan Gupta, Rupesh Kumar, Lalit Sharma, and Chetan Arora
+    venue: International Conference on Computer Vision and Image Processing, 59-73, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-93703-3_5
+  - title: 'No Prompting Frozen Foundation Models: Interactive Medical Volume Segmentation using Continual Test Time Adaptation of Compact Models'
+    authors: Kushal Borkar, Abhilaksh Singh Reen, CV Jawahar, and Chetan Arora
+    venue: Proceedings of the Fifteenth Indian Conference on Computer Vision Graphics …, 2024, 2024
+    links:
+    - label: paper
+      url: https://dl.acm.org/doi/abs/10.1145/3702250.3702275
+  - title: 'SEMA: Semantic Attention for Capturing Long-Range Dependencies in Egocentric Lifelogs'
+    authors: Pravin Nagar, KN Shastry, Jayesh Chaudhari, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Nagar_SEMA_Semantic_Attention_for_Capturing_Long-Range_Dependencies_in_Egocentric_Lifelogs_WACV_2024_paper.html
+  - title: 'GaitW: Enhancing Gait Recognition in the Wild Using Dynamic Information'
+    authors: Daksh Thapar, Jayesh Chaudhari, Sunny Manchanda, Aditya Nigam, and Chetan Arora
+    venue: Proceedings of the Asian Conference on Computer Vision, 268-285, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/ACCV2024/html/Thapar_GaitW_Enhancing_Gait_Recognition_in_the_Wild_using_Dynamic_Information_ACCV_2024_paper.html
+  - title: 'VideoCutMix: Temporal Segmentation of Surgical Videos in Scarce Data Scenarios'
+    authors: Rohan Raju Dhanakshirur, Mrinal Tyagi, Britty Baby, Ashish Suri, Prem Kalra, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-72089-5_68
+  - title: Assessing Risk of Stealing Proprietary Models for Medical Imaging Tasks
+    authors: Ankita Raj, Harsh Swaika, Deepankar Varma, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-72120-5_10
+  - title: Can Reasons Help Improve Pedestrian Intent Estimation? A Cross-Modal Approach
+    authors: Vaishnavi Khindkar, Vineeth Balasubramanian, Chetan Arora, Anbumani Subramanian, and CV Jawahar
+    venue: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2024, 2024
+    links:
+    - label: paper
+      url: https://ieeexplore.ieee.org/abstract/document/10802097/
+  - title: 'FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation.'
+    authors: Sudarshan S Harithas, Gurkirat Singh, Aneesh Chavan, Sarthak Sharma, Suraj Patni, Chetan Arora, and Madhava Krishna
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Harithas_FinderNet_A_Data_Augmentation_Free_Canonicalization_Aided_Loop_Detection_and_WACV_2024_paper.html
+  - title: 'Favoring One Among Equals-Not a Good Idea: Many-to-One Matching for Robust Transformer Based Pedestrian Detection'
+    authors: KN Shastry, K Teja, Aditya Nigam, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Shastry_Favoring_One_Among_Equals_-_Not_a_Good_Idea_Many-to-One_WACV_2024_paper.html
+  - title: Assessing the Feasibility and Ethics of Economic Status Prediction using Deep Learning on Household Images
+    authors: Aatif Nisar Dar, Nandana Sengupta, and Chetan Arora
+    venue: ACM Journal on Computing and Sustainable Societies 2 (3), 1-20, 2024, 2024
+    links:
+    - label: paper
+      url: https://dl.acm.org/doi/abs/10.1145/3675160
+  - title: 'Reproducibility and explainability of deep learning in mammography: A systematic review of literature'
+    authors: Deeksha Bhalla, Krithika Rangarajan, Tany Chandra, Subhashis Banerjee, and Chetan Arora
+    venue: Indian Journal of Radiology and Imaging 34 (03), 469-487, 2024, 2024
+    links:
+    - label: paper
+      url: https://www.thieme-connect.com/products/ejournals/html/10.1055/s-0043-1775737
+  - title: Calibration Transfer via Knowledge Distillation
+    authors: Ramya Hebbalaguppe, Mayank Baranwal, Kartik Anand, and Chetan Arora
+    venue: Proceedings of the Asian Conference on Computer Vision, 513-530, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/ACCV2024/html/Hebbalaguppe_Calibration_Transfer_via_Knowledge_Distillation_ACCV_2024_paper.html
+  - title: 'D-MASTER: Mask Annealed Transformer for Unsupervised Domain Adaptation in Breast Cancer Detection from Mammograms'
+    authors: Tajamul Ashraf, Krithika Rangarajan, Mohit Gambhir, Richa Gauba, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-72120-5_18
+  - title: 'Follow the radiologist: Clinically relevant multi-view cues for breast cancer detection from mammograms'
+    authors: Kshitiz Jain, Krithika Rangarajan, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_10
+  - title: 'United We Stand, Divided We Fall: UnityGraph for Unsupervised Procedure Learning from Videos'
+    authors: Siddhant Bansal, Chetan Arora, and CV Jawahar
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Bansal_United_We_Stand_Divided_We_Fall_UnityGraph_for_Unsupervised_Procedure_WACV_2024_paper.html
+  - title: Applications of artificial intelligence in biliary tract cancers
+    authors: Pankaj Gupta, Soumen Basu, and Chetan Arora
+    venue: Indian Journal of Gastroenterology 43 (4), 717-728, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/article/10.1007/s12664-024-01518-0
+  - title: 'MMBCD: Multimodal Breast Cancer Detection from Mammograms with Clinical History'
+    authors: Kshitiz Jain, Aditya Bansal, Krithika Rangarajan, and Chetan Arora
+    venue: International Conference on Medical Image Computing and Computer-Assisted …, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/chapter/10.1007/978-3-031-72378-0_14
+  - title: 'Army of Thieves: Enhancing Black-Box Model Extraction via Ensemble based sample selection'
+    authors: Akshit Jindal, Vikram Goyal, Saket Anand, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Jindal_Army_of_Thieves_Enhancing_Black-Box_Model_Extraction_via_Ensemble_Based_WACV_2024_paper.html
+  - title: Deep-learning models for differentiation of xanthogranulomatous cholecystitis and gallbladder cancer on ultrasound
+    authors: Pankaj Gupta, Soumen Basu, Thakur Deen Yadav, Lileswar Kaman, Santosh Irrinki, Harjeet Singh, Gaurav Prakash, Parikshaa Gupta, Ritambhra Nada, Usha Dutta, Manavjit Singh Sandhu, and Chetan Arora
+    venue: Indian Journal of Gastroenterology 43 (4), 805-812, 2024, 2024
+    links:
+    - label: paper
+      url: https://link.springer.com/article/10.1007/s12664-023-01483-0
+  - title: Towards Domain-Aware Knowledge Distillation for Continual Model Generalization
+    authors: Nikhil Reddy, Mahsa Baktashmotlagh, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/WACV2024/html/Reddy_Towards_Domain-Aware_Knowledge_Distillation_for_Continual_Model_Generalization_WACV_2024_paper.html
+  - title: The third monocular depth estimation challenge
+    authors: Jaime Spencer, Fabio Tosi, Matteo Poggi, Ripudaman Singh Arora, Chris Russell, Simon Hadfield, Richard Bowden, GuangYuan Zhou, ZhengXin Li, Qiang Rao, YiPing Bao, Xiao Liu, Dohyeong Kim, Jinseong Kim, Myunghyun Kim, Mykola Lavreniuk, Rui Li, Qing Mao, Jiang Wu, Yu Zhu, Jinqiu Sun, Yanning Zhang, Suraj Patni, Aradhye Agarwal, Chetan Arora, Pihai Sun, Kui Jiang, Gang Wu, Jian Liu, Xianming Liu, Junjun Jiang, Xidan Zhang, Jianing Wei, Fangjun Wang, Zhiming Tan, Jiabao Wang, Albert Luginov, Muhammad Shahzad, Seyed Hosseini, Aleksander Trajcevski, and James H Elder
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024, 2024
+    links:
+    - label: paper
+      url: https://openaccess.thecvf.com/content/CVPR2024W/MDEC/html/Spencer_The_Third_Monocular_Depth_Estimation_Challenge_CVPRW_2024_paper.html
+  - title: 'FocusMAE: Gallbladder Cancer Detection from Ultrasound Videos with Focused Masked Autoencoders'
+    authors: Soumen Basu, Mayuna Gupta, Chetan Madan, Pankaj Gupta, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024, 2024
+    links:
+    - label: paper
+      url: http://openaccess.thecvf.com/content/CVPR2024/html/Basu_FocusMAE_Gallbladder_Cancer_Detection_from_Ultrasound_Videos_with_Focused_Masked_CVPR_2024_paper.html
+  - title: 'ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation'
+    authors: Suraj Patni, Aradhye Agarwal, and Chetan Arora
+    venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern …, 2024, 2024
+    links:
+    - label: paper
+      url: http://openaccess.thecvf.com/content/CVPR2024/html/Patni_ECoDepth_Effective_Conditioning_of_Diffusion_Models_for_Monocular_Depth_Estimation_CVPR_2024_paper.html
 - year: '2023'
   entries:
   - title: 'RadFormer: Transformers with global–local attention for interpretable and accurate Gallbladder Cancer detection'
